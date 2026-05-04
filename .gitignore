@@ -1,0 +1,3 @@
+# Large source/generated data kept locally.
+data/pan25-generative-ai-detection-task2-train/*.jsonl
+data/master_human_texts_pan25.csv

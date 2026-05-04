@@ -1,0 +1,847 @@
+id,source_id,class,rewrite_level,text,source_corpus,split_hint,language,source_dataset,split
+pan25_train_human_0083963,pan25_train_human_0083963,human,none," Time-of-flight magnetic resonance angiography (TOF-MRA) is one of the most
+widely used non-contrast MR imaging methods to visualize blood vessels, but due
+to the 3-D volume acquisition highly accelerated acquisition is necessary.
+Accordingly, high quality reconstruction from undersampled TOF-MRA is an
+important research topic for deep learning. However, most existing deep
+learning works require matched reference data for supervised training, which
+are often difficult to obtain. By extending the recent theoretical
+understanding of cycleGAN from the optimal transport theory, here we propose a
+novel two-stage unsupervised deep learning approach, which is composed of the
+multi-coil reconstruction network along the coronal plane followed by a
+multi-planar refinement network along the axial plane. Specifically, the first
+network is trained in the square-root of sum of squares (SSoS) domain to
+achieve high quality parallel image reconstruction, whereas the second
+refinement network is designed to efficiently learn the characteristics of
+highly-activated blood flow using double-headed max-pool discriminator.
+Extensive experiments demonstrate that the proposed learning process without
+matched reference exceeds performance of state-of-the-art compressed sensing
+(CS)-based method and provides comparable or even better results than
+supervised learning approaches.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0094329,pan25_train_human_0094329,human,none,";
+, The coach on first or third will help you. They will tell you to steal, or to stay. Sometimes they might instruct you with more complicated orders, but the make sure you know the steal sign that your team created. If you don't have a steal sign, listen to the base coach or just trust your instincts.
+, When the pitcher releases the softball, take two or three large steps. Be prepared to quickly run back just in case the catcher feels she can catch you off base with a quick throw. Make sure not to run before the pitcher releases the ball, though, or the umpire will call you out.
+, The backstop is the fence behind the catcher. The bigger the backstop, the easier it will be for you to steal.
+, If there are people on base ahead of you, make sure that they steal before you follow. Otherwise, you would have to go all the way back to the base you started at
+, If there is nobody ahead of you that is base running, you may steal at your own will.
+, Put your either foot on the outside corner of the base and your other foot behind the base. As the pitcher rocks back, you rock back. When she rocks forward into her windup, you rock forward. This will help you get a push off of the base and a head start to the next base. Putting your hands in front of you and 'fake' the windup to know when to go.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0087820,pan25_train_human_0087820,human,none,"This paper puts forward a not entirely new, but also not sufficiently understood interpretation of dropout regularization. The authors derive useful theorems that estimate or put bounds on key quantities that are of interest when analyzing dropout regularized networks from their perspective. They furthermore introduce an explicit regularization term that should have a well understood impact on these key quantities. In the experimental section they convincingly show that the proposed regularization indeed has the expected effect and that their perspective on dropout is therefore useful and meaningful.
+Their proposed regularization also seems to have a positive impact on the models performance but they demonstrate this only on rel. small scale benchmark problems. I therefore don’t belief that this approach will have a large impact on how practitioner train models. But their general perspective is well aligned with the recently proposed idea of “Dropout as a bayesian approximation” and the insights and theorems in this paper might enable future work in that direction.
+ ",pan25,train,English,LLM-DetectAIve,test
+pan25_train_human_0083717,pan25_train_human_0083717,human,none,"The United Nations has declared 2024 as the International Year of Camelids. In the United States, books, films, and other works published in 1928 will enter the public domain, assuming there are no changes made to copyright law. Bulgaria is expected to adopt the euro and become the 21st member state of the eurozone. January 12 – January 28 – The 2024 European Men's Handball Championship will be held in Germany. January 19 – February 2 – The 2024 Winter Youth Olympics will be held in Gangwon, South Korea. February 1 – Finland's new president will take office if the election is decided in the first round. February 14 – The 2024 Indonesian general election is to be held in Indonesia. February 18 – The 2024 NBA All-Star Game is scheduled to be held in Indianapolis, Indiana. March 11 – The next Bitcoin halving is predicted to occur on this date. March 17 – The 2024 Russian presidential election is to be held in Russia. April 8 – A total solar eclipse will be visible in the Central Pacific Ocean, northern Mexico, eastern, southwestern and central United States, southeastern Canada and northern Atlantic Ocean. May 2 – The next UK general election is scheduled to be held on this date in accordance with the Fixed-term Parliaments Act. It will elect the 59th Parliament of the UK and will be the first general election after Brexit and since the beginning of the COVID-19 pandemic. May 26 – Comet 9P/Tempel 1 will pass 0.55 AU from Jupiter and may break apart due to gravitational forces. May 27 – Elizabeth II, if still living and reigning, will surpass Louis XIV as the longest-reigning monarch in verified history. June 14 – July 14 – The UEFA Euro 2024 will be held in Germany. July 7 – General election for Mexico's president will be held. July 26 – August 11 – The 2024 Summer Olympics will be held in Paris, France. August 28 – September 8 – The 2024 Summer Paralympics will be held also in Paris. October 27 – The 2024 Uruguayan general elections are scheduled to take place. Incumbent President Luis Lacalle Pou will not be eligible for re-election. November 5 – The 2024 United States presidential election is scheduled to take place. Incumbent President Joe Biden (then 81 years old) will be eligible for re-election. Notre-Dame de Paris will re-open to the public after repairs will be completed from its devastating 2019 fire. SpaceX launches an uncrewed starship to Mars planned to arrive in 2025.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0069058,pan25_train_human_0069058,human,none,"I, one hundred percent agree with the creation that was approached. By the way they explain the technology and advancement in the project it sounds legit, I mean it does have its flaws and improvement But the flaws isn't anything bad, Its just certain area on the rode you have to help more.  I think its an wonderfuk idea.  The way they say it assist you is very helpful for the elderly. Some people are handicape and was waiting for an idea like this. Everybody isn't able to move around and do alot of things because they are disabled but a invention like this will change all of those problems.  The main reason is it will help the commuinty  maybe the robbery rate will go down because alot of people wouldn't have to walk anywhere for them to get ran up on an rob or worse murdered. ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0238276,pan25_train_human_0238276,human,none," Starting around March, white sea bass are abundant near Catalina Island, San Clemente Island, and other nearby islands in California. Summer is the best season for fishing for sea bass in Southern California, but it can be caught into the fall and winter months. However, most people focus on other types of game fish during the cooler months.;
+, White sea bass are very selective when it comes to what they will bite. Early spring white sea bass are typically caught with live or freshly dead squid. White sea bass caught in the summer or later months are not as picky and can be caught on almost any bait or jig.
+,, White sea bass enjoy larger amounts of food, and the 2-squid combination is hard for them to resist. This kind of bait oftentimes attracts larger white sea bass, so make sure you are using a line that can hold at least 40 pounds (18 kg).
+, Using larger bait will prevent smaller fish from attacking your bait while attracting the white sea bass. Let the mackerel swim freely, and keep a close eye on it. Once the white sea bass is hooked, start reeling it in.
+, This technique works best when attempting to fish for white sea bass during the spring and early summer months. You want to get the attention of the barracuda, which are often followed by the white sea bass. Mackerel works well in this situation because the barracuda will typically not try to feed on it. If a recently-caught white sea bass happens to swim by, this can be an opportunity to catch it in its weakened state.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0064803,pan25_train_human_0064803,human,none,"I'll break it down in parts.
+ > 50 flat left easy left maybe 30 long easy left
+50 means the distance to the next corner, in meters.
+Flat left describes the corner itself. In this case it's a corner that can be taken with full throttle. Some drivers use a number system, for example from 1 to 5, where 5 would be a flat out corner and 1 would be very tight one.
+Easy left maybe means that while fast, not completely flat out, and has possibly a stone etc. on the inside.
+The rest I think you can manage yourself.
+It's worth noting that each driver has his/her own preferences when it comes to notes. Some want the notes well in advance while other like them quite late, almost at the corner. And there's no standardised system. Some like notes like described in what you posted, some like rating the corners based on numbers. Some guys even use two languages in their notes.
+So the drivers hear the above notes, and applies them. He might go flat out in the first corner and then brake a bit for the next. If he needs to catch the guy in front, he may cut that corner a bit or take it flat out or both.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0215801,pan25_train_human_0215801,human,none," Bag of Sand, 1/2 Thread bolts 2.5” inches long, Bolt Spacers,Intense Sunlight, One open box with dimensions approximately 24”x24”x8”, Framed Spot Fresnel Lens 24”x24”, Fire extinguisher (Optional), and Possible friend for help.;
+(Note: the 8’ board will be the base of our structure and the 6’ will be the vertical beam.)
+Then screw them in using 2 screws for each point of contact on the base and only one screw each into the vertical board.
+This should result in both support structures to be parallel. With the second 2’8” board screw it to the posterior end of the two supports.
+Drill a hole in the inside of the vertical boards, with thickness articulating to the bolt width and about 1” deep. These will act as grooves for our 1/2 threaded bolts.
+If your lens differs in size, that’s okay just find the midpoint to it’s easy to balance.
+Use Spacers to get the Fresnel Lens a taught feel, but not too taught that it’s fully immobilized.
+With the open end facing up fill it with sand until about 2” covers the bottom.
+To find the focal point have the face of the lens directly face the sun. (Note: Temperatures at the focal point can exceed 1600 degrees Celsius on a clear day).
+If melting is taking place then we have prime conditions and can move forward.
+Carefully move the box slowly to disperse the focal point into a design for the first layer.
+Layers of sand should be added at about 1/8” per level. By sprinkling the sand is small stages this will allow for more preciseness of the levels of melted silicon(sand) on top of itself.
+Center most of your first layers into a covered circle, and having following layers increased to rings that steadily have increasing diameters as the layers increase. Note: Contrary to the picture examples ( they act as a guideline) it’s generally a good idea to do a minimum of 15 layers for a bowl.
+Wash it off with water. Add milk and cereal. ENJOY your new easy to make cereal bowl with sun power!
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0102566,pan25_train_human_0102566,human,none,"Sociology major here. It helps to know the term ""Essentialist"" is often contrasted with ""Constructionist."" In the field of Sociology, we understand phenomena (for example, Gender - men and women) as being ""socially *constructed*"" rather than ""*biologically essentialist*.""
+Sorry for getting a little obtuse here, but a lot of it has to do with what we mean by the word ""Truth."" Essentialism says that there are fundamental Truths about the world that we can observe using science and rationality. Something true today will be true in 100 years, there's something essential there. Constructionism, on the other hand, says that our world is composed of a bunch of truths that are context-specific, and ultimately 'constructed' by people. It's useful to use examples.
+An Essentialist position on Gender might say:
+ > There's just *something* essential that's different about men and women, beyond their physical anatomy. There's something in your core that makes you a *man* - your masculinity is a real thing that makes you more adapted to X, Y, and Z - maybe that's physical labor, toy trucks, or managing people.
+An Constructionist position on Gender might say:
+ > Men and women, beyond their physical and hormonal differences, actually aren't so different after all. As a Western society, over time our culture has decided what it means to be a man or woman - and that definition has changed! There is nothing *essential* about boys and the color blue, trucks, and riding motorcycles. These are ideas created by society, and reinforced through discourse (advertising, TV, school, family, friends, etc). There used to be a time when it was completely socially appropriate for little boys to wear dresses! One could even say that gender is ""performed"" rather than being something real and tangible.
+Essentialism says that we can know certain things about our world, and that these things are more or less set in stone. Constructionism counters, by saying that these truths are context-specific and are always being challenged.
+Edit: The Wikipedia section on Psychology (in ""Essentialism"") provides a good point that Essentialist thinking often has ties with prejudice. That's not to say that your friend think you're prejudiced, but think of the example of a racist guy in the US. He might say ""Black people are all lazy. They're content to go on welfare, and feed off the state while the rest of us work!"" Of course this is a racist generalization - but it's *essentialist* because the man believes that *simply by being Black* that person's work ethic is decided already. A Social Constructionist view of the race situation in the US would try to contextualize the high proportion of black people on welfare with: the historical context of racism and segregation; lack of educational opportunities; lack of social support in poor black neighborhoods; racist employment practices; over-policing of crime in poor black neighborhoods and the social/economic cost of the War on Drugs - criminal record = harder to get a job.",pan25,train,English,LLM-DetectAIve,test
+pan25_train_human_0281358,pan25_train_human_0281358,human,none,"In the very simplest form a cyclotron consists of two big circular magnets, one above the other ([Diagam](_URL_0_)). Charged particles sent between the two magnets will move in a circle because of the magnetic field between the two magnets. To provide acceleration there is a gap down the center of the cyclotron. As the particles move in their circular trajectory they will cross the gap twice every full orbit. The acceleration occurs because an the two sides of the gap are charged so an electric field sits across the gap. The trick now is that as the particles are accelerated they the radius of their orbit will grow larger and larger. However, they are speeding up so the time to complete a full orbit never changes. Because of this if you very the direction the electric field points in the gap you can time the change so that the particles always see an accelerating field on each pass.
+That's the basic idea. Reality unforunately gets a little more complicated. Due to special relativity once the particles begin to reach higher velocities, relative to the speed of light the scaling between the radius of their path and the velocity becomes non-linear and things get much more complicated. The are two basic ways you can account for relativity. The synchrocyclotron which various the frequency of the electric field oscillations, or the isochronous cyclotron which modifies the magnets so that the field varies with radius.
+Cyclotron originally saw a great deal of use in nuclear physics research though they are being phased out these days in favor of other types of accelerators. However, they still see a great deal of use in a variety of medical applications and there may even be growing demand for them once again if proton therapy takes off for cancer treatment.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0011002,pan25_train_human_0011002,human,none,"The workers that were building the extravagant Empire State Building they went through several obstacle courses. One of the obstacle courses having the blimp sit on top of building. Since the blimp was only held by one cable cord it was appling stress to the build because the blimp was pretty heavy. Another obstacle was nature. Since the Empire State Building was so high up the wind was excrushiating. The last obstacle they had to over come was the gas they used inside the blimps. If they used hydrogen which is a highly flammable substance, like the German blimbs it could of been bad.",pan25,train,English,TriBERT,train
+pan25_train_human_0030461,pan25_train_human_0030461,human,none,"There were many obstacles the builders of the Empire state building faced in attempting to allow dirigibles to dock there. A couple of those obstacles are one, the stress of the dirigible's load and the wind pressure. This is happening because ""the wind pressure would have to be transmitted all the way to the buildings foundation"" Which means they would have to go nearly eleven hundred feet below. Another obstacle is They figured out that ""the mooring mast of the empire state building was destined to never fulfill its purpose."" The reasons for this is because it should have been apparent before was ever constructed. Those are just a couple of many obstacles the builders of the empire state building faced.",pan25,train,English,TriBERT,train
+pan25_train_human_0198080,pan25_train_human_0198080,human,none,"Although the trainable parameters might be reduced significantly, unfortunately the training and recognition speech cannot be reduced in this way.
+Unfortunately, as the results show, the authors could not get better results with less parameters.
+However, the proposed structure with even more number of parameters shows significant gain e.g. in LM.
+The paper should be reorganized, and shortened. It is sometimes difficult to follow and sometimes inconsistent.
+E.g.: the weights of the feedforward network depend only on an embedding vector (see also my previous comments on linear bottlenecks), whereas in recurrent network the generated weights also depend on the input observation or its hidden representation.
+Could the authors provide the num. of trainable parameters for Table 6?
+Probably presenting less results could also improve the readability.
+Only marginal accept due to the writing style.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0090857,pan25_train_human_0090857,human,none,"Would you be willing to figure out what is going on in Vebus? In the articule The Challenges of Exploring Venus there are scientist that want to find more about Venus. Venus is referred to as Earth's ""twin"". Would you be willing to explore or send Items to explore Venus, so we can know more about it?  Its would be amazing if NASA could get samples of the rock, gas, and other things on Venus.  The reason it would be amazing is so that we can know how Venus is just like our earth they call Venus Eath's ""twin"" so it would be amzaing if they had a lot more in common. NASA is willing to send people there but the only problem is that it is to hot there for people to go there and land there and take samples. The only way NASA said they could send people was if thyey could hover over Venus at about thirty miles or so, that is about how high a jet airplane fly. NASA would like to make things so that humans do not have to risk there lives to get samples so NASA is making some things in the articule it says this  ""NASA is working on other approaches to studying Venus.  For example, some simplidied electronis made os silicon carbide have been tested in a chamber simulatiing to chaos of Venus's surface and hahve lasted for three weeks in such conditions""(7). Nasa finally thinks they have found somethng they could use that was made a lon time ago. it is called the mechanical computer the device was first envisioned in the 1800s and played a important role in the 1940s during WWII. the reason scientist believe they can use this is because the device makes calculations by using gears and leavers and do not need electronics at all, so they are saying systems that use mechanical parts can be made more resistant to pressure, heat, and other forces.  After all would you decide to help out and figure out more about Venus? Scientist are doing a great job so far with everything they are figuring out about what could be more helpful to them. They also know that is can be safe for them to hover over Venus instead of landing on it and having a horrible tragidy.  They have a lot of leads of what they can use and lets hope he can find more out about Venus in a couple of years. ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0285972,pan25_train_human_0285972,human,none,"Under the electoral college system, voters vote not for the president, but for a slate of electors, who in turn elect the president. we should get rid of the Electoral College for many reasons.  One reason is that small states do not get any attention from the upcoming presidents  because their electoral votes for the small states are to small like Alaska only has 3 electoral votes unlike California which has 55 electoral votes so the upcoming presidents can just not even think about the small states and go for bigger states like Florida, Texas, and California.
+ People say ""The electoral college is unfair, outdated, and irrational"" and Bob Dole said ""Abolish the electoral college."" Many things can go wrong in the electoral college like their can be a tie in the sytem where is would be thrown to the House of Representatives, where state delegations vote on the president.  Another reason is what some people call the disaster factor,  consider that state legislatures are technically responsible for picking electors, and that those electors could always defy the will of the people. who would vote for some one to not listen to them and do what they want? then the electoral college is useless in the sense of voting for who you want.  people say that the electoral college avoids run-off elections  however the electoral college is unfair to voters, because of the winner-take-all system in each state.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0002819,pan25_train_human_0002819,human,none,"The mood created by the author in the memoir has a very good description. First, the author describes the mood in the begining of the story by telling me where her parents came from and all about them. Second, the author describes the middle of the story by telling me how he grew up and what his life is like and lot more about him. Third, the author also tells me that the boy loves and misses his parents so much. Finally, he also tells me how he will never forget how his parents turned this simple house into a home. This is how the mood created the author in the memoir with a very good description.",pan25,train,English,TriBERT,train
+pan25_train_human_0136603,pan25_train_human_0136603,human,none,"We explore the rich internal structure of Cs_2 Feshbach molecules. Pureultracold molecular samples are prepared in a CO_2-laser trap, and a multitudeof weakly bound states is populated by elaborate magnetic-field rampingtechniques. Our methods use different Feshbach resonances as input ports andvarious internal level crossings for controlled state transfer. We populatehigher partial-wave states of up to eight units of rotational angular momentum(l-wave states). We investigate the molecular structure by measurements of themagnetic moments for various states. Avoided level crossings between differentmolecular states are characterized through the changes in magnetic moment andby a Landau-Zener tunneling method. Based on microwave spectroscopy, we presenta precise measurement of the magnetic-field dependent binding energy of theweakly bound s-wave state that is responsible for the large backgroundscattering length of Cs. This state is of particular interest because of itsquantum-halo character.",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0037211,pan25_dev_human_0037211,human,none,"when someone asks you for advice , who do you go to ? when that person is needed to be given advice out to , they sometimes talk to more than one person. when you seek multiple opinions, you can get opinions that can add onto your advice or make it less full of detail because if you need to give someone advice , you need to give them some advice that is going to be helpful it gives you an idea of what others think about toward that opinion and what and why you think what you're thinking about it when someone gives you the same opinion on advice as yours you won't get that person's point of view since they already have the same idea as you. they won't be able to add onto your opinion of advice.
+however, if your opinion goes wrong, their's can work out for you and the person you're trying to give advice to as an alternative if they have a much more different idea than yours, you have their point of view it can give you an idea of whether you want to add onto yours or edit it.
+you can know whether your advice toward that person is going to be helpful or not.
+it makes you think about how and why you chose that advice you wanted to give out you think about why that person thought about another opinion thats more different than yours, and maybe about how it might impact you The next time someone asks you for advice , ask other people and see what they tell you . when somebody asks another person for advice , they'll either get the same thing you were having an opinion of or a different opinion. however, there's no right or wrong answer. it all depends on what you're doing an opinion about , but have to think it straight through before giving out that advice. it's a better choice to know what's best then not knowing something straight up that's not true.",pan25,dev,English,m4gt-bench,train
+pan25_train_human_0181782,pan25_train_human_0181782,human,none,"Freezing to death does not mean you die from solidified flesh. 
+Your normal body temperature is about 37ºC. The freezing point of water is 0ºC. There's a lot of room in between the optimal operating temperature of the body and the point at which the flesh would actually start to freeze solid. 
+The most likely thing to kill a person or animal who is exposed to the cold for too long is hypothermia. If you lose too much body heat to the outside environment and your core body temperature drops too much, your body systems become unable to function normally. There are medical definitions for the stages of hypothermia and what happens to the body at those temperatures.
+Mild, 32-35ºC: shivering happens, and weird things can happen to your blood pressure and blood sugar as your body attempts to keep warm.
+Moderate, 28-32ºC: you shiver harder or intermittently, you start to lose muscle control and get clumsy, and you might feel confused or react sluggishly to things happening. Your extremities (face, hands and feet) will lose blood flow and become numb and pale/blue-looking.
+Severe, below 28ºC: you get really confused and have trouble staying conscious or remembering things, and your heart and respiration start to fail. 
+All of this happens long before your internal body temperature gets anywhere near the freezing point of water, so you don't die from freezing solid like an ice cube. You'd be dead long before you got that cold.
+The record for the coldest body temperature that a person has survived is held by a little girl from Sweden who fell into the ocean in the middle of winter a few years ago. When she was found her body temperature was only 13ºC, but she was still alive, and was able to be rewarmed. (I'm having trouble finding any information on whether she is ""back to normal"" or if she survived with permanent injuries or disabilities.)
+The bottom line is that if you're dressed warmly, are healthy and fit, and are active when you're outside, you aren't going to freeze to death walking down the street like the mailman. The mailman could risk hypothermia if he's dressed too warmly, because if he sweats in his warm clothes he'll lose body heat faster. He should also be careful of frostbite, which is where extremities like ears and nose can actually freeze even though the internal body temperature is not hypothermic.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0152650,pan25_train_human_0152650,human,none,"Ocean water has a MUCH higher content of Salt and the effects are much different.
+With Ocean water, Salinity is anywhere between 35 and 37 parts per ~~trillion~~ thousand. As quoted:
+ > The average ocean salinity is 35 ppt. This number varies between about 32 and 37 ppt. Rainfall, evaporation, river runoff, and ice formation cause the variations. For example, the Black Sea is so diluted by river runoff, its average salinity is only 16 ppt.
+Freshwater salinity is usually less than 0.5 ppt. Water between 0.5 ppt and 17 ppt is called brackish. Estuaries (where fresh river water meets salty ocean water) are examples of brackish waters.
+Most marine creatures keep the salinity inside their bodies at about the same concentration as the water outside their bodies because water likes a balance. If an animal that usually lives in salt water were placed in fresh water, the fresh water would flow into the animal through its skin. If a fresh water animal found itself in the salty ocean, the water inside of it would rush out. The process by which water flows through a semi-permeable membrane (a material that lets only some things pass through it) such as the animal's skin from an area of high concentration (lots of water, little salt) to an area of low concentration (little water, lots of salt) is called osmosis.
+This is also why humans (and nearly all mammals) cannot drink salt water. When you take in those extra salts, your body will need to expel them as quickly as possible. Your kidneys will try to flush the salts out of your body in urine, and in the process pump out more water than you are taking in. Soon you'll be dehydrated and your cells and organs will not be able to function properly.
+This is recorded from [The Office of Naval Research](_URL_0_) and a branch of the US Navy.
+Sand however, contains small particles of salt, averaging in the parts per million, so the amount of sodium would be beneficial because you are introducing very small concentrations into the body, as not to upset your bodies very delicate balance.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0067239,pan25_train_human_0067239,human,none,"There's actually numerous known reason of what causes headaches and migraines. Now if we are just talking about typically normal headache, a doctor isn't going to order a $30k test to figure it out. They can see headaches and migraines on certain scans. 
+If a doctor can pretty much account for a headache being caused by stress, dehydration, lack of sleep, pain, sickness or another common cause of headache, that's good enough. The cure for that is drink plenty of water, rest well, and try to not get sick. 
+Now if your getting migraines a doctor will usually seek for an exact cause. They are usually more serious and could be caused by life threatening conditions. Depending on the cause, there are medical treatment's and procedures to ""cure"" migraines. 
+ Ironically doctors are having a more difficult time telling the difference between migraines, and just a bad headache. They have changed the migraine requirements over the years. Now if you just have headaches a lot they will say you have migraines. I promise there's a difference. When a headache shoots pain down the front of your face, you want to rip your brain out it hurts so bad, makes you vomit, can't have any lights on and you just want to cry, that's a migraine.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0227996,pan25_train_human_0227996,human,none,"One of the main points of the original ""vote no to independence"" campaign was that an independent Scotland wouldn't be allowed to join the EU. Many people voted no based on that. The margin in the end was 55% no, 45% yes. Then the Brexit vote happened. Every single constituency in Scotland voted to remain in the EU, and Scotland as a whole voted to remain in the EU 63%-37% (something like that. Certainly in the 60% voted remain). In between these 2 referenda (Independence and Brexit), there was a Scottish Parliament election. The SNP were returned as the largest party, and had specifically stood on a mandate to have a second independence referendum if there was a drastic change in circumstances (i.e. Brexit). So they're just doing what they said they would.
+Unionists are pissy because they think the nationalists aren't respecting the result of the first referendum and just want to keep rerolling until they get the result they want. Other people are pissed because they voted no first time around based on the EU lie as mentioned above. Personally, I think that the UK government currently is doing more to advance the cause of Scottish independence than the SNP ever have.
+Source: Am Scottish and rather fed up with politics at the moment.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0035402,pan25_train_human_0035402,human,none," You shouldn’t start dating a girl just because you want to be part of a couple. That can make you desperate, which means you may wind up scaring her off by being too clingy and possessive. You should be happy on your own before you start dating someone new.You should have your own hobbies, interests, and friends that you really enjoy even without a romantic relationship in your life. If you aren’t happy with those things, work on them before looking to date a girl.;
+, If there are issues in your life that you wish would go away, such as insecurities or anxiety, you can’t expect that the girl who you date will magically make them go away. A girlfriend shouldn’t be responsible for sorting out your problems -- you’ll either attract someone who has a savior complex or she’ll wind up resenting you, and in both cases, your relationship probably won’t work out.If you aren’t able to deal with the problems that you’re facing on your own, you may want to talk to a therapist or counselor, who can assist you in finding healthy ways to work through your issues before you start dating.
+, Sometimes when you’re looking to attract a girl, you may be tempted to portray yourself as someone other than who you really are to appeal to her interests. For example, if she tells you that she loves tennis, you might lie and say that you were a tennis star in school even though you’ve never picked up a racket. That’s a big mistake because she should like you for who you really are and you won’t be comfortable faking it. Have enough confidence to be yourself.Being yourself doesn’t mean that you shouldn’t be open to new experiences. If she has a hobby or interest that she’d like to share with you, be willing to learn more about it -- and share your interests with her as well.
+",pan25,train,English,LLM-DetectAIve,test
+pan25_dev_human_0057833,pan25_dev_human_0057833,human,none,"Using numerical simulations, we investigate vortex configurations and pinningin superconductors with honeycomb and kagome pinning arrays. We find that avariety of novel vortex crystal states can be stabilized at integer andfractional matching field densities. The honeycomb and kagome pinning arraysproduce considerably more pronounced commensuration peaks in the criticaldepinning force than triangular pinning arrays, and also cause additional peaksat noninteger matching fields where a portion of the vortices are located inthe large interstitial regions of the pinning lattices. For the honeycombpinning array, we find matching effects of equal strength at most fillingsB/B_\phi=n/2 for n>2, where n is an integer, in agreement with recentexperiments. For kagome pinning arrays, pronounced matching effects generallyoccur at B/B_\phi=n/3 for n>3, while for triangular pinning arrays pronouncedmatching effects are observed only at integer fillings B/B_\phi=n. At thenoninteger matching field peaks in the honeycomb and kagome pinning arrays, theinterstitial vortices are arranged in dimer, trimer, and higher order n-merstates that have an overall orientational order. We call these n-mer states""vortex molecular crystals"" and ""vortex plastic crystals"" since they aresimilar to the states recently observed in colloidal molecular crystal systems.We argue that the vortex molecular crystals have properties in common withcertain spin systems such as Ising and n-state Potts models. We show thatkagome and honeycomb pinning arrays can be useful for increasing the criticalcurrent above that of purely triangular pinning arrays.",pan25,dev,English,LLM-DetectAIve,val
+pan25_train_human_0253120,pan25_train_human_0253120,human,none,"Arthur Hilton (April 5, 1897 – October 15, 1979) was a British-born film editor and director.
+Biography
+Hilton was born in London and edited his first film in 1928. Shortly after, he immigrated to the US, where he worked on such films as the W. C. Fields classic comedies The Bank Dick (1940) and Never Give a Sucker an Even Break (1941), and Julien Duvivier’s portmanteau film Flesh and Fantasy (1943). Hilton was nominated for an Academy Award in 1946 for Best Film Editing for Robert Siodmak’s film noir The Killers.
+Hilton later established himself as a director, with his film director credits including The Return of Jesse James (1950), The Big Chase (1954), and Cat-Women of the Moon (1953), the latter consider by The Encyclopedia of Science Fiction as ""absurd [but] one of the most influential science-fiction films ever made."". Hilton's television director credits include Lassie, Mission: Impossible, Wanted Dead or Alive, and Police Story. Hilton was recognized by American Cinema Editors for his editing work on the 1977 mini-series Washington: Behind Closed Doors.
+Selected filmography
+1930: Captain Thunder
+1931: The Virtuous Husband
+1933: What Price Innocence?
+1935: Swellhead
+1938: Breaking the Ice
+1940: The Bank Dick
+1941: Keep 'Em Flying
+1941: Man Made Monster
+1942: Who Done It?
+1942: Pardon My Sarong
+1943: Flesh and Fantasy
+1943: Crazy House
+1944: Phantom Lady
+1944: The Suspect
+1944: Bowery to Broadway
+1944: Ghost Catchers
+1945: Scarlet Street
+1945: Here Come the Co-Eds
+1945: The Strange Affair of Uncle Harry
+1945: The Naughty Nineties
+1946: The Killers
+1948: Let's Live a Little
+1948: Secret Beyond the Door
+1950: The Baron of Arizona
+1950: The Return of Jesse James
+1950: House by the River
+1953: Cat-Women of the Moon
+1954: The Big Chase
+1973: Harry in Your Pocket
+References
+External links
+1897 births
+1979 deaths
+British film editors
+Recipients of the Austrian Decoration for Science and Art
+Film people from London
+British emigrants to the United States",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0136676,pan25_train_human_0136676,human,none," Calculations of molecular spectral properties, like photodissociation rates
+and absorption bands, rely on knowledge of the excited state energies of the
+molecule of interest. Protocols based on the variational quantum eigensolver
+(VQE) are promising candidates to calculate such energies on emerging noisy
+intermediate scale quantum (NISQ) computers. The successful implementation of
+these protocols on NISQ computers, relies on ans\""atze that can accurately
+approximate the molecular states and that can be implemented by shallow quantum
+circuits. In this paper, we introduce the excited qubit-excitation-based
+adaptive (e-QEB-ADAPT)-VQE protocol to calculate molecular excited state
+energies. The e-QEB-ADAPT-VQE constructs efficient problem-tailored ans\""atze
+by iteratively appending evolutions of qubit excitation operators. The
+e-QEB-ADAPT-VQE is an adaptation of the QEB-ADAPT-VQE protocol, which is
+designed to be independent on the choice of an initial reference state. We
+perform classical numerical simulations for LiH and BeH$_2$ to benchmark the
+performance of the e-QEB-ADAPT-VQE. We demonstrate that the e-QEB-ADAPT-VQE can
+construct highly accurate ans\""atze that require at least an order of magnitude
+fewer $CNOT$s than standard fixed UCC ans\""atze, such as the UCCSD and the
+GUCCSD.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0061748,pan25_dev_human_0061748,human,none,"Do you think students would benefit from being able to attend classes from home? I say yes and no. I say yes because some people get home sick just from being away from home too long. For some students its a better learning process and some students get distracted in class easily. I also say no because some rather prefer learning it in person than from a distance. My personal opinion is that I think its so much better for a teacher to explain and actually show you what to do in person rather than online.  Most students take there classes online because some of them can't concentrate in class or they easily get distracted. I can most certainly say I get distracted in class because for one I love to talk  but I also get my work done because I know how to muti-task. But some students cant do that.  I never really considered taking online classes because I cant just learn off what a electronic tells me. I prefer to be in class and listen and hear from a teachers point of view.  I think its way better to actually be in class and hearing it from a teacher because the teacher can help you understand your work more.  Plus, if your struggling or don't understand what your doing then teachers have study hall and after school hours so students can come and get the extra help they need. My teacher Generic_Name is always asking my class do we understand it or do we need help. Therefore if we still don't understand what was being taught in class, she'll stay after school just so she can help us out and help us understand it more.  Online classes is not bad because it helps students be more comfortable at home rather than at a school. Most students don't attend college because of the distance. Mostly because they dont know anybody and so they rather be in an environment where they know people.  I believe thats why they created online classes because most students dont feel comfortable being at school where they dont know anybody.  Finally, my answer to this questions is no, because theres no way you can understand your work more on a computer rather than actually hearing it come from a teacher unless you really focus and pay attention. Most teachers prefer students to take online classes to graduate and finish all your classes early. But I rather take my time and actually learn and understand more.",pan25,dev,English,LLM-DetectAIve,train
+pan25_train_human_0255910,pan25_train_human_0255910,human,none,"Machi () is a Taiwanese hip hop group that has nine active members, with two additional members on a hiatus from group activities. MACHI collaborated with well-known hip-hop artist Missy Elliott after meeting in New York. Missy Elliott was impressed by Taiwanese rap and remixed her well-known song ""Work It"" with Machi's Jump 2003; resulting in the debut crossover Work it, Jump 2003. Producer Floss P, from Dr. Dre's Aftermath music label, also produced a track ""You Can't Do It"" for MACHI on their second album 2nd Opus in July 2004. MACHI then looked around Asia and teamed up with Asia's top Turntablist DJ TOMMY from Hong Kong on their third album Superman. MACHI Entertainment is one of the largest Asian hip hop/rap record labels. It was founded in Taiwan by super music producer Jae Chong and business partners Jeffrey Huang and Bobby Sheng. The label is independent of Warner Music Taiwan. As a member of the group SOLID, Jae Chong sold millions of records in Korea and later became one of the most prolific music producers in Asia with more than 50 million albums sold all over the world. He partnered with Jeffrey Huang and Bobby Sheng who founded TheOne Technology Group back when they were still based in Los Angeles. TheOne Technology Group specialized in bridging the cultural and language barriers for Internet-based projects. Together, they acquired a stellar clientele list including IBM, Nike and Hewlett Packard. In 2000 they orchestrated a $60,000,000, three-company merger that combined TheOne Technology group and Dynalab with DynaComware. Together, they re-structured the company in Japan and has positioned it for an IPO on the Japan Stock Exchange in 2005. Their new venture, MACHI Entertainment is their respond to the emerging entertainment sector and the demand for urban music in the entertainment industry in Asia. In 2001, they founded Machi Entertainment Group, the leading music and television production company for the ""Urban"" genre in Taiwan. Machi established itself as the leader in Music production in Asia with leading talents such as Jeffrey Huang, Jay Chou, Missy Elliott, A-mei, Stanley Huang, Jolin Tsai, Vanness Wu, Elva Hsiao, Coco Lee, Brandy, Nicky Lee, Melody Yeung, and solid partnerships with Warner Music Group, Virgin EMI, and Sony. Machi Entertainment's investment in foreign distribution and television production has also established Machi as a young and innovative entertainment Group founder Jeff Huang was sued by a R.O.C. legislators for libel. The rap song ""Retribution"" released in 2005 implied possible death for corrupt legislators who may have passed laws to possibly make it easier to illegally copy and distribute music in Taiwan. The Taipei District Court found him innocent on 11 May 2007, citing no ""intention of malice"".",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0267109,pan25_train_human_0267109,human,none,"James O. Page JD (August 7, 1936 – September 4, 2004) was recognized as a leading authority on United States emergency medical services (EMS). James was born in Alhambra, California, and frequently moved between California and Kansas as a youth. After holding a number of jobs, including an ambulance attendant in East Los Angeles, he received his first job in the fire service with Monterey Park Fire Department. After failing a medical clearance with Los Angeles City Fire Department Page served in the Los Angeles County Fire Department for 16 years rising to the rank of Battalion Chief. While working with the department, he began his studies in law at Southwestern Law School. Recognizing an opportunity, management in the Los Angeles County Fire Department placed problematic firefighters under Page's supervision hoping that his litigious training would hasten their dismissal. However, Page refused to serve as the department's ""executioner.""
+In 1973 he was appointed as the first director of North Carolina's statewide EMS system. North Carolina gained a national reputation for excellence in pre-hospital care during his tenure. In 1975, he was appointed as Executive Director of Lakes Area Emergency Medical Services in Buffalo, NY and spearheaded the development and implementation of the 8-county western New York EMS system.
+During the early 1970s Jim Page served as a technical advisor for NBC Television's popular show Emergency! This program captured the US public's imagination and created a public demand for quality pre-hospital care. In 1976 Page took the leadership reins of the ACT Foundation becoming a popular public speaker, advisor, and author of topics in emergency medicine. The character of Johnny Gage, a paramedic that appeared on the series was considered to have been named in honor of Page, although the name had been changed, so as to keep in context.
+Page published several books and magazines about the EMS community. He is generally recognized as the official historian of EMS.
+References
+Further reading
+The Paramedics, Backdraft Publications, 1979, hardcover, 179 pages, #79-89566
+The Magic of 3am, Journal of Emergency Medical Services, 2002, softcover, 177 pages, #0936174137
+External links 
+Journal of Emergency Medical Services
+James O. Page Biography
+James O. Page Obit in Firehouse Magazine
+ Obit in JEMS Magazine
+Obit in Mergeinet
+at Page, Wolfberg & Wirth, LLC Website
+1936 births
+2004 deaths
+American firefighters",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0279938,pan25_train_human_0279938,human,none,"In mathematics, the half-period ratio τ of an elliptic function is the ratio
+of the two half-periods and of the elliptic function, where the elliptic function is defined in such a way that
+is in the upper half-plane.
+Quite often in the literature, ω1 and ω2 are defined to be the periods of an elliptic function rather than its half-periods. Regardless of the choice of notation, the ratio ω2/ω1 of periods is identical to the ratio (ω2/2)/(ω1/2) of half-periods. Hence, the period ratio is the same as the ""half-period ratio"".
+Note that the half-period ratio can be thought of as a simple number, namely, one of the parameters to elliptic functions, or it can be thought of as a function itself, because the half periods can be given in terms of the elliptic modulus or in terms of the nome.
+See the pages on quarter period and elliptic integrals for additional definitions and relations on the arguments and parameters to elliptic functions.
+See also 
+ Modular form
+ Nome
+References
+ Milton Abramowitz and Irene A. Stegun, Handbook of Mathematical Functions, (1964) Dover Publications, New York. See chapters 16 and 17.
+Elliptic functions",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0061882,pan25_train_human_0061882,human,none," Set the barbell on the ground. Stand so that your shins (not your toes) are about six to ten inches (15 to 25 cm) away from it. Set both feet directly below their corresponding shoulders.Bend your knees a little bit.As you do, make sure your shins remain perpendicular to the floor. Now bend over from your waist until your upper torso is more or less parallel with the ground.
+Keep your chest up as you bend over, so that your back is as straight as it should be when standing upright with good posture.;
+, Squat until your hands are able to reach the barbell.Take hold of it with an overhand grip (also known as “pronated”), so that your palms face downward toward the floor or inward toward you.Spread your hands apart so they are a just a tad wider than your shoulders. Now straighten your hips and knees, lifting with your legs, until they are back in your starting position.
+Keep your arms straight held straight down as you rise.
+, First, draw in a breath. Then, without moving your legs or upper body out of position, pull the barbell with your forearms toward your lower chest. Exhale as you do so. As you lift, bring your elbows up and behind your torso, rather than sticking them out to your sides like wings. When the barbell reaches your torso, use the muscles in your shoulder blades to finish drawing it up the rest of the way., Continue holding the barbell to your chest for a second or two once you reach the top of your lift. Then draw in a breath and reverse the motion. Carefully lower the weight back to your starting position (not the floor).Don’t hand it over to gravity and let it drop. Use as much control over the lowering of the barbell as you used when raising it.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0169505,pan25_train_human_0169505,human,none,"Not sure what exactly you have trouble with, but I'm gonna give it a shot. Fair warning, it's gonna be a poor analogy (;
+Imagine you have a fancy bar of soap, shaped like some kind of blossom or something. Bind it on a string to keep it in place and drop it into a lake or something with waves.
+Over time, more and more of the soap will be dissolved into soap water. It is losing mass, just like an atom would (only the atom loses it in other forms, let's call that radiation for now). Also the reason for atoms being unstable is more that they are too big and fall apart
+ After some time it probably would not look like a blossom anymore. An atom would decay into another element or isotope instead.
+Maybe larger pieces would break off. It's impossible to tell exactly how fast this process will be. If you do a LOT of similar tests you might get a pretty good grip on how long it usually takes until the soap is gone. The probability of the soap slipping out of your knot in a soap half-life is roughly 50% That's pretty much what we do with atoms: the half life is the time it takes until only 5 of 10 radioactive atoms are left.",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0067162,pan25_dev_human_0067162,human,none,"The electoral college,they decide what we vote on based on what they think our state would choose for president.  To me the country has it all wrong, I think we as US citizens should let our votes decide on who should be president. Even though things may get done quicker I think everyones voice should be heard.  People like Bob Dole Jimmy Carter and Richard Nixon have tried to get rid of the electoral college. Plus the electoral college cost Al Gore his presidency would've also liked to have their voices heard in the 2000 election. and im pretty sure people would agree with me the 60% of the population of voters would like their voice to be heard.  The electoral college has a weird way of how they run and choose.  Like the example in ""whats wrong with the electoral college"" it saiys that ""if someone lived in Texas and they wanted to vote for John Kerry you'd vote for a slate of 34 democratic electors pledged to John Kerry and then John Kerry would have 34 electoral votes.""  If it were based on popular vote the points would be split to the person based on the number of votes they got.  Even though other situations like in 2012 when obama won the election he recived a 61% of the electoral college's votes while the popular votes he recived was 51% a 10% difference,  even though he still would've won it would've been more fair to let the popular votes decide  Some say its best to have a bias voter choose because they wont choose someone based on what everyone else's opinion is, like how the south favored romney over obama  but to me that could be bad beacause what if who we choose actually has good ideas the college wouldve just go for the other guy.  The ""winner-take-all"" method happens in swing states like Florida,us and other states have a big part on who we choose to run our country we usually pay attention to all the debates and campaings because we think our leader should know what he's doing swing states and big states are places a presidential campaign would take place the like to ensure they get their votes where it counts to guarentee a lead.  the electoral college doesnt go to good for people who dont agree to their sides view  like ""republicans in California or democrats in Texas"" their voices arent heard the popular votes might've gotten some points to save their canidate.  in conclusion the electoral college is blocking the right to vote for who we want and have their voices heard even if that person were a republican in California. the popular vote should have some say on who will run the country. ",pan25,dev,English,LLM-DetectAIve,train
+pan25_train_human_0110421,pan25_train_human_0110421,human,none," We study an isothermal system of semi-degenerate self-gravitating fermions in
+general relativity. Such systems present mass density solutions with a central
+degenerate core, a plateau and a tail which follows a power law behaviour
+$r^{-2}$. The different solutions are governed by the free parameters of the
+model: the degeneracy and temperature parameters at the center, and the
+particle mass $m$. We then analyze in detail the free parameter space for a
+fixed $m$ in the keV regime, by studying the one-parameter sequences of
+equilibrium configurations up to the critical point, which is represented by
+the maximum in a central density ($\rho_0$) Vs. core mass ($M_c$) diagram. We
+show that for fully degenerate cores, the known expression for the critical
+core mass $M_c^{cr}\propto m_{pl}^3/m^2$ is obtained, while instead for low
+degenerate cores, the critical core mass increases showing the temperature
+effects in a non linear way. The main result of this work is that when applying
+this theory to model the distribution of dark matter in galaxies from the very
+center up to the outer halos, we do not find any critical core-halo
+configuration of self-gravitating fermions, which be able to explain the super
+massive dark object in their centers together with an outer halo
+simultaneously.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0060995,pan25_train_human_0060995,human,none,All reviews clearly support acceptance of the paper.,pan25,train,English,LLM-DetectAIve,test
+pan25_train_human_0036411,pan25_train_human_0036411,human,none," Estimating and reducing the overhead of fault tolerance (FT) schemes is a
+crucial step toward realizing scalable quantum computers. Of particular
+interest are schemes based on two-dimensional (2D) topological codes such as
+the surface and color codes which have high thresholds but lack a natural
+implementation of a non-Clifford gate. In this work, we directly compare two
+leading FT implementations of the T gate in 2D color codes under circuit noise
+across a wide range of parameters in regimes of practical interest. We report
+that implementing the T gate via code switching to a 3D color code does not
+offer substantial savings over state distillation in terms of either space or
+space-time overhead. We find a circuit noise threshold of 0.07(1)% for the T
+gate via code switching, almost an order of magnitude below that achievable by
+state distillation in the same setting. To arrive at these results, we provide
+and simulate an optimized code switching procedure, and bound the effect of
+various conceivable improvements. Many intermediate results in our analysis may
+be of independent interest. For example, we optimize the 2D color code for
+circuit noise yielding its largest threshold to date 0.37(1)%, and adapt and
+optimize the restriction decoder finding a threshold of 0.80(5)% for the 3D
+color code with perfect measurements under Z noise. Our work provides a
+much-needed direct comparison of the overhead of state distillation and code
+switching, and sheds light on the choice of future FT schemes and hardware
+designs.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0219494,pan25_train_human_0219494,human,none,"In simple terms there is the ""old"" brain, the part that you will find in the most primitive animals (sometimes nicknamed ""the reptile brain"") and then there's the ""new"" brain, the systems found only in the ""highest"" mammals such as humans, apes, dolphins etc.
+Now, what you are here calling ""the mind"" I would presume are the functions of the brain that we humans perceive as consciousness, the types of mental activity that we experience subjectively and the part the we somehow feel that we are, in one way or another, in control of (including ""free will"" and other such functions). The ""old"" brain contains functions that seem more like reflexes, automatic reactions, ""gut"" reactions etc.
+When we are subjected to very stressful situations, let's say we need to run for our lives, the ""old"" systems kick in to action and basically take over our behavior in such a way that it seems to us, to our ""conscious witnessing"" of what's going on, that the mind ""blanks"" or in other words that we more or less ""just act"" like a robot or ""automatically"".",pan25,train,English,LLM-DetectAIve,val
+pan25_train_human_0098259,pan25_train_human_0098259,human,none," Try putting a little bit of feed out and they will flock to it.
+Try doing this in your chicken coop if you have one. It is a more contained area and it will be easier to catch the chicken you want inside of it.
+If your chickens won't come to you for regular feed, you can try pieces of bread as a treat, but these should be used sparingly.
+Once chickens have flocked to their food, you can approach them.
+, If you move quickly, you will risk disturbing the hen and scaring her into a run. Be as quiet as possible.
+Don't make sudden movements.
+Hover over the chicken.
+This may cause the chicken to stop, crouch down and open its wings. This is what they do during mating.
+, You can do this a number of ways. The easiest and gentlest way to grab a chicken is to bend down and gently scoop up the chicken. Keep your hands or arms over her wings so she can't flap them to get away.
+You can also grab the chicken by the back and tail. Cup your hands and scoop up the chicken gently, scooping up from underneath. If the chicken runs forward grasp the tail feathers and grab the chicken from the front by the shoulders.
+Avoid having to grab the tail feathers as much as possible, as chickens dislike this.
+You can also try to grab the chicken by its legs underneath. Avoid holding the chicken upside down from its legs if you do this.
+, This is less gentle and quiet, but it is effective.Poultry hooks are long handled sticks with a hook made of wire on the end.
+Try hooking the chicken by the leg and pulling her toward you.
+You can also use a handled net to catch particularly stubborn bird.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0120744,pan25_train_human_0120744,human,none,"First i want to say that i agree and disagree with your decision.  I agree because students shouldn't get lower than a B but also a C average.  I disagree because students should have sports if their average is a C...  that C don't mean they are flunking it means that they are in average to play sports, because the GPA you should have to play sports is a 2.5 or above.  I think you should let the students who have a C average play because when they have something to keep them entertain they will bring their grades up because they would want to stay in the sport they in.  I kind of agree with you because if you let somebody with a C average in a sport they wouldn't try their best to get it up because they are going to think ""oh they let me in with a C average that means i can keep it that way.""  You just have to come up with some agreements you can come up with and share them with the students and see if they agree with you, and they disagree with you than just don't let them in the sport they sign up for. ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0155574,pan25_train_human_0155574,human,none,"The electoral college has been a part of the united states for many years. The founding fathers were the ones who established it in the constituion  The electoral college seems to have worked for all these years , but my opinion on this is that we should change it to electing a president with popular vote. There are many pros and cons to both the electoral college and the popular vote but the positives of the popular vote outweigh the negatives more then the electoral does.  The united states is a democracy so the citizens living here should have the right to vote for the president of the united states  With the electoral college the citizens are'nt the ones voting for the president the electors are. In the electoral college the voters are voting for a slate of electors, who then vote for the president. In most cases the elector votes for the candidate that their party wants, in some cases the elector has chosen the oppossing candidate to what his party wants according to the second source. Since the elector is allowed to do this that is one reason why the electoral college is unfair. Popular vote is when the people vote for the candidate they want this is truly what a democracy is when the people choose their representatives.  The electoral college is unfair to voters because of the winner-take-all system in all the states,  because candidates don't spent time in the states they know they will lose in. They only foucus on the states that they know they will win in or of a close chance to the other candidate, because of this there has been times when people would not see the candidates at all or they did'nt get to see a single campaign ad. If there was popular vote then this would not be the case and it would be eliminated, because candidates would have no choice but to put up advertisments all over the country.  Even though the popular vote is a good way to go  I think that this system of electing president is still not perfect or will never be perfect  The electoral college allowed some of are greatest presidents to win beacuse if they got more electoral votes then popular vote it would'nt matter they will still win. The electoral college also avoids the problem of one candidate not recieving the majority of the votes cast. The electoral college has been in are country for so long and has worked for us well but I still believe that the popular vote can be and  should be used in future elections ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0168455,pan25_train_human_0168455,human,none,"No, they can't search you whenever they feel like. But they can search you if they have a reasonable suspicion you are carrying contraband. 
+ > Although the underlying command of the Fourth Amendment is always that searches and seizures be reasonable, what is reasonable depends on the context within which a search takes place. 
+*New Jersey v. T. L. O.*, 469 U.S. 325, 337 (1985). In the context of a school, school officials have a huge responsibility to keep you safe and watch over you. Of course, you do have a reasonable expectation of privacy in your belongings, but because of the special responsibility of school officials, they don't need a warrant or probable cause to search you. 
+ > The school setting also requires some modification of the level of suspicion of illicit activity needed to justify a search. Ordinarily, a search -- even one that may permissibly be carried out without a warrant -- must be based upon ""probable cause"" to believe that a violation of the law has occurred. However, ""probable cause"" is not an irreducible requirement of a valid search. The fundamental command of the Fourth Amendment is that searches and seizures be reasonable, and although ""both the concept of probable cause and the requirement of a warrant bear on the reasonableness of a search,... in certain limited circumstances neither is required.""
+*Id.* at 340 (citations omitted). 
+Thus, if there is reasonable suspicion you're doing something wrong, they can do a reasonable (making you empty your backpack, not making you strip down) search.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0228447,pan25_train_human_0228447,human,none,"There's also a concept called [qualia](_URL_0_). Certain things we experience can't be accurately described (you can't describe what makes a hug nice in the same way you can describe what makes 2 + 2 add to 4), so how do we know that, for example, the thing I see as red is really the same kind of red you see? To play around with this kind of thing, you can take two computer monitors and adjust their color balances to be different, and then pretend that you see things like one monitor but another person sees things like the other one. So, could it be that other people don't just react differently to sounds, but actually *hear them* differently? Maybe! Or it could just be that different people have different experiences, and so sounds might remind them of different things. Somebody who's been in a war, for example, might be reminded of combat by construction sounds. Or someone who was raised listening to classical music might be happier listening to it than somebody who grew up on and prefers classic rock.",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0063117,pan25_dev_human_0063117,human,none,"Laitila (; ) is a town and a municipality of Finland. It is located in the Southwest Finland region, and it is from Laitila to Turku. The municipality has a population of 
+() and covers an area of of
+which 
+is water. The population density is
+. The municipality is monolingually Finnish.
+Laitila is renowned for its poultry farms and ""egg festival"" (Laitilan Munamarkkinat), which is why the subject of the municipal coat of arms of Laitila also refers to the parish's fame for chicken care. There is a lot of demand for Laitila-based chicken eggs, as the local egg producer company Munax, among other things, has even planned to egg exports all the way to South Korea. Laitila has also been called the ""egg capital of Finland"".
+Culture
+Laitila has a very large number of Iron Age antiquities, the most famous of which are the so-called the warrior's grave of Kodjala. Finland's oldest glass object, the Roman-era drinking horn, has been found in Laitila's Soukainen village. The nationally significant built cultural environments defined by the Finnish Heritage Agency in 2009 in Laitila include the Untamala and Suontaka villages and the Koukkela's the peasant house of Kauppila.
+People
+ Kaarlo Heininen (1853–1926)
+ Pasi Saarela (born 1973)
+ Mika Kares (born 1978)
+ Valle Mäkelä (born 1986)
+ Markus Seikola (born 1992)
+ Susanna Tapani (born 1993)
+References
+External links
+Town of Laitila – Official site 
+Cities and towns in Finland
+Municipalities of Southwest Finland
+Populated places established in 1868
+1868 establishments in the Russian Empire",pan25,dev,English,LLM-DetectAIve,train
+pan25_train_human_0221671,pan25_train_human_0221671,human,none," Guns must be designed and built to exacting specifications in order to function safely and properly. Gunsmiths must be proficient in working with wood, metal, and other shop materials to create an intricate piece of equipment.
+Math skills are important for gunsmiths, since they must measure and cut wood and metal.
+Gunsmiths have excellent wood and metalworking skills. They know how to use shop equipment such as lathes, drill presses, precision measuring instruments, files and chisels, and other tools of the trade.
+Gunsmiths have mechanical expertise. They understand the way the individual moving parts in a gun work together, and are able to identify the problem when a gun isn't working correctly.;
+, Gunsmiths understand that they are building on gunsmithing knowledge that has evolved over several hundred years. They're familiar with old and new gun models, manufacturers, and accessories.
+Gunsmiths are often collectors or hobbyists who have the desire to craft guns on their own.
+Many gunsmiths are members of organizations like the National Rifle Association, or attend conferences, trade shows and other events to congregate with other gunsmiths and learn more information about guns.
+, Licensed gunsmiths know the importance of handling guns according to standard gun safety rules and the laws in their region.
+Gun safety extends to the crafting of the gun itself, since a faulty gun could be unsafe for the user.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0248311,pan25_train_human_0248311,human,none,"Marx did not write much about the state because he mostly was focused on analyzing and critiquing capitalist society in general and capitalist economy in particular. What he wrote on the state was mostly related to how it functioned to uphold a capitalist economy, e.g. 
+ > The executive of the modern state is nothing but a committee for managing the common affairs of the whole bourgeoisie [1]
+What he did write about a post-capitalist state was typically ambiguous. In *The Civil War in France* he wrote that
+ > the working class cannot simply lay hold of the ready-made state machinery, and wield it for its own purposes. [2]
+However Marx advocates what is called ""the dictatorship of the proletariat"", i.e. working-class democracy.
+ > We have seen above, that the first step in the revolution by the working class is to raise the proletariat to the position of ruling class - to win the battle of democracy.
+ > The proletariat will use its political supremacy to wrest, by degree, all capital from the bourgeoisie, to centralise all instruments of production in the hands of the State, i.e., of the proletariat organised as the ruling class; and to increase the total productive forces as rapidly as possible. [3]
+The ""dictatorship of the proletariat"" is a confusing term because to modern readers dictatorship refers to a single executive power in control, but that's not how it was used in Marx's time. It would have simply been understood as worker's democracy. [4]
+To get closer to your question, though, in *Neue Rheinische Zeitung* No. 136 Marx wrote that
+ > there is only one way in which the murderous death agonies of the old society and the bloody birth throes of the new society can be shortened, simplified and concentrated, and that way is revolutionary terror. [5]
+It's unclear what he meant by revolutionary terror because the word cant be understood in the same way we understand terrorism today, especially in the context of the rest of that article. ""Revolutionary Terror"" no doubt has its origins in the French Revolution's Reign of Terror so it's unclear what Marx specifically meant by this term; terror against one class, individual terror, general civil war, etc. In the context of the article it seems to be justified as self defense against reactionary elements killing workers. 
+However Marx ""felt that terrorism was likely to be counterproductive"" [6]
+As for purges and personality cults its unlikely Marx would have supported either of these, he was fiercely individualistic, politically favored proletarian democracy, and as a communist opposed class-based governments and economic hierarchy. 
+ > The working class, in the course of its development, will substitute for the old civil society an association which will exclude classes and their antagonism, and there will be no more political power properly so-called, since political power is precisely the official expression of antagonism in civil society. [7]
+[1]_URL_5_
+[2]_URL_6_
+[3]_URL_2_
+[4]_URL_3_
+[5]_URL_4_
+[6]_URL_0_
+[7]_URL_1_",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0107107,pan25_train_human_0107107,human,none,"State Highway 24 (SH 24) is a New Zealand state highway in the Waikato region. The highway was gazetted in 1997 and forms a short cut between the Matamata-Piako District and towards the Port of Tauranga. Gazetted as a new designation in 1997, SH 24 commences at a roundabout intersection with at Matamata and travels eastwards onto Broadway. After crossing the Kinleith Branch rail line and passing through the Matamata town centre the road changes to Mangawhero Road followed by Tauranga Road. After travelling in a south-east direction for approximately 8 km the road comes across a T-intersection. SH 24 traffic turns left while straight ahead traffic heads onto Te Poi Road, an undesignated road crossing (further west than where SH 24 terminates) and eventually towards Rotorua. SH 24 carries on eastwards to the intersection with SH 29 east of Te Poi. Eastbound traffic on SH 29 goes straight ahead (where SH 24 terminates), while westbound traffic makes a right turn.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0019335,pan25_train_human_0019335,human,none,"More and more people use computers, but not everyone agrees that this benefits society. I, for one do not. I think a decent amount of time on the computer, you can benefit from. But I do belive that computers are a huge part of peoples lives now. I think that people should get off the computer, and get some exercise more and more people would be so much healthier, if they took the time they were on the computer and exercised instead. On the computer you can look up places and see beautiful pictures of places, nature, and even people. But if people got off the computers and traveled and enjoyed nature, they would be able to live it, not just see a picture. Everything would be so much more fun if you were there and got to experience it, not just read about it. Another reason why I feel so strongly about people spending less time on computers is because they don't spent much time interacting with family and friends when you are the computer to much it seems like you drift away from you friends and family. Almost as if you are to ""busy"" to see them. So as you can see I highly disagree with the overuse of computers.",pan25,train,English,TriBERT,train
+pan25_train_human_0285578,pan25_train_human_0285578,human,none,"Today, the majority of humans own and operate cell phones on a daily basis. Some even use their phones while driving. This is dangerous and causes one fourth of the accidents in America. These accidents cause people to get seriously injured or even die. Texting while driving should not be allowed.  Driving is already dangerous enough as it is, but when you add people texting while there driving it adds a whole new level of danger  People should have their eyes on the road and not on their phone. By texting and driving they are putting themselves and everyone else on the road at risk. When people are driving they tend to focus on their phones instead of the road which can be a real threat to others.  Advancements in technology have helped drivers develop a less need for using their phones. Most cars made today are developed with technology to let drivers make phone calls or text without even looking away from the road or picking up their phone. They can now use speech-to-text or accept phone calls through their vehicle.
+ Phones and driving have become a bad combination that usually leads to someone getting hurt. They can be injured or even die. Drivers should not be able to use phones and drive.         ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0136328,pan25_train_human_0136328,human,none," Cell-free massive MIMO (CF-M-MIMO) systems represent an evolution of the
+classical cellular architecture that has dominated the mobile landscape for
+decades. In CF-M-MIMO, a central processing unit (CPU) controls a multitude of
+access points (APs) that are irregularly scattered throughout the coverage area
+effectively becoming a fully distributed implementation of the M-MIMO
+technology. As such, it inherits many of the key properties that have made
+M-MIMO one of the physical layer pillars of 5G systems while opening the door
+to new features not available in M-MIMO. Among the latest is the possibility of
+performing the precoding at the CPU (centralized) or at the APs (distributed)
+with the former known to offer much better performance at the cost of having to
+collect all the relevant channel state information (CSI) at the CPU. Realistic
+deployments of cell-free systems are likely to require more than one CPU when
+the area to be covered is large, thus a critical issue that needs to be solved
+is how these multiple CPUs should be interconnected. This paper analyzes and
+proposes designs for different degrees of interconnectivity among the CPUs for
+the specific case of centralized zero-forcing precoding. Results show that a
+modest form of CPU interconnection can boost very significantly the max-min
+rate performance so prevalent in CF-M-MIMO architectures.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0078197,pan25_train_human_0078197,human,none," It was recently shown by R. Souam and E. Toubiana that the (non constantly
+curved) Berger spheres do not contain totally umbilic surfaces. Nevertheless in
+this article we show, by perturbative arguments, that all analytic metrics
+sufficiently close to the round metric $g_{0}$ on $\mathbb{S}^{3}$ possess
+\textsl{generalized} totally umbilic 2-spheres, namely critical points of the
+conformal Willmore functional $\int_{\Sigma}|A^\circ|^{2}\,d\mu_{\gamma}$. The
+same is true in the smooth setting provided a suitable non-degeneracy condition
+on the traceless Ricci tensor holds. The proof involves a gluing process of two
+different finite-dimensional reduction schemes, a sharp asymptotic analysis of
+the functional on perturbed umbilic spheres of small radius and a quantitative
+Schur-type Lemma in order to treat the cases when the traceless Ricci tensor of
+the perturbation is degenerate but not identically zero. For left-invariant
+metrics on $SU(2)\cong \mathbb{S}^{3}$ our result implies the existence of
+uncountably many distinct Willmore spheres.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0043892,pan25_train_human_0043892,human,none,"If I were a scientist at NASA I will not believed alien because most of scientists said aliens are not real and I think they just made up of alien.  A face on Mars is maybe when the wind blow the dust it trun that face or when they goes there they died and their dead body face is still there. But it's really interesting because that face is really big and it image 3 times bigger than th epixel size. But I believed there are not alien in the other planets or in earth because alien are not real but I have to makesure that I have to ask more question to the smartest scientist and ask about how did that face happen and how are we gonna prove about that. I have to ask more question about that too and they said that face look like airplanes on the ground or Egyptian style pyrmaids or even small shacks, you could see what they were. Some of them don't believe it because they don't see it and they just guess that answer. But when I looked at the picture I think I saw that crown and their face look shiney and in 2001 that face look destroy . I don't believe in aliens but if there was some aliens in that planet they might made that face too and they hid away from that face. I wish I see that picture for real and take some picture and prove it.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0240118,pan25_train_human_0240118,human,none,"This is a well written, organized, and presented paper that I enjoyed reading. I commend the authors on their attention to the narrative and the explanations. While it did not present any new methodology or architecture, it instead addressed an important application of predicting the medications a patient is using, given the record of billing codes. The dataset they use is impressive and useful and, frankly, more interesting than the typical toy datasets in machine learning. That said, the investigation of those results was not as deep as I thought it should have been in an empirical/applications paper. Despite their focus on the application, I was encouraged to see the authors use cutting edge choices (eg Keras, adadelta, etc) in their architecture. A few points of criticism:
+-The numerical results are in my view too brief. Fig 4 is anecdotal, Fig 5 is essentially a negative result (tSNE is only in some places interpretable), so that leaves Table 1. I recognize there is only one dataset, but this does not offer a vast amount of empirical evidence and analysis that one might expect out of a paper with no major algorithmic/theoretical advances. To be clear I don't think this is disqualifying or deeply concerning; I simply found it a bit underwhelming.
+- To be constructive, re the results I would recommend removing Fig 5 and replacing that with some more meaningful analysis of performance. I found Fig 5 to be mostly uninformative, other than as a negative result, which I think can be stated in a sentence rather than in a large figure.
+- There is a bit of jargon used and expertise required that may not be familiar to the typical ICLR reader. I saw that another reviewer suggested perhaps ICLR is not the right venue for this work. While I certainly see the reviewer's point that a medical or healthcare venue may be more suitable, I do want to cast my vote of keeping this paper here... our community benefits from more thoughtful and in depth applications. Instead I think this can be addressed by tightening up those points of jargon and making the results more easy to evaluate by an ICLR reader (that is, as it stands now researchers without medical experience have to take your results after Table 1 on faith, rather than getting to apply their well-trained quantitative eye). 
+Overall, a nice paper.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0107239,pan25_train_human_0107239,human,none," In many situations with finite element discretizations it is desirable or
+necessary to impose boundary or interface conditions not as essential
+conditions -- i.e. through the finite element space -- but through the
+variational formulation. One popular way to do this is Nitsche's method. In
+Nitsche's method a stabilization parameter $\lambda$ has to be chosen
+""sufficiently large"" to provide a stable formulation. Sometimes discretizations
+based on a Nitsche formulation are criticized because of the need to manually
+choose this parameter. While in the discontinuous Galerkin community variants
+of the Nitsche method -- known as ""interior penalty"" method in the DG context
+-- are known which do not require such a manually chosen stabilization
+parameter, this has not been considered for Nitsche formulations in other
+contexts. We introduce and analyse such a parameter-free variant for two
+applications of Nitsche's method. First, the classical Nitsche formulation for
+the imposition of boundary conditions with fitted meshes and secondly, an
+unfitted finite element discretizations for the imposition of interface
+conditions is considered. The introduced variants of corresponding Nitsche
+formulations do not change the sparsity pattern and can easily be implemented
+into existing finite element codes. The benefit of the new formulations is the
+removal of the Nitsche stabilization parameter $\lambda$ while keeping the
+stability properties of the original formulations for a ""sufficiently large""
+stabilization parameter $\lambda$.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0092070,pan25_train_human_0092070,human,none,"Students would be benefit from being able to attend to classes from home  because some students have to work,  they have family  others live far away.  First of all students would be benefit from being able to attend to classes from home because some have to work  and they dont have time to attend to school because of their schedule. 
+ Second reason is that students would be benefit from being able to attend to classes from home because they have family,  that could be a problem for them since they could have kids and have to take care of them and being able to study from their houses it's a great a option for them.  And last reason, because others live far away.  sometimes students dont have transportation because of their location or maybe they don't even have school in the area, and online classes it's an good advantage for them and good opportunity to study.  In conclusion online courses have many great opportunities and good advantage for students, and some of the reasons are: because some students have to work, they have family, and others live to far away ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0225174,pan25_train_human_0225174,human,none,"Driverless cars have many good thing going for them, but there need to be a line drawn when it come to the safety of our family and friends. Google's effort's to make a driverless car is very interesting, but we need more time to explore the field before it is available to the public. The article states that their are waiting on the law, manufacturing, and the technology/safety for everyone to create a driverless car. We must wait for all of these thing to be finalized before it is in the hands of the public.  The article states that it is ""Waiting on the Law"" to make sure there is liabilty in the case there is an accident with this robot-like car. This is going to raise all kinds of problem involving the manufacturer and the driver. The best way to control these types of problems from occuring is to just stopping the idea of driverless cars. Although, we cannot stop the idea of driverless car we can control who gets to use them. I think the the traffic law is just the beginning of new laws involving driverless car. The only thing that is needed is time and time is what they should be getting.  The manufacturating process in driverless car is very new. This comes from the beginning of the article when ""Google has had cars that could drive independently under conditions since 2009."" Well it is 2016 and there are still laws (specific conditions) that needed to be in place and the manufacturating is can still be updated before it is release to the public. Also there are not yet completely driverless car. The company incharge of driverless car should go the completely mile instead of stop half way. The manufactoring still needs to make the car safe for people to driver in  The new sensors for the car were able to become more advance in a decade. The sensors could be more advance if we wait and the laws for the car will be ready by then.
+ The most part of not have driverless car and waiting is to increase our safety. We need more time for the technology to beccome advance. Our safety is more important and robot car can be flawed. There should not be any problems with the car when it is released to the public. A robot-like car needs more time to be reviewed by the government and other assoications. Safety for our family and friends is more important.  The idea of driverless car is interesting, but there are still some unanswerable questions that needed to be answered before there are in the publics hands. The time for the driverless car is in the future, but the only stopping them from being released is the laws.    ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0277200,pan25_train_human_0277200,human,none,"Šemsudin Gegić (born in 1951 in Zavidovici, Bosnia and Herzegovina), is Bosnian literate, playwright, theater, television and film director. He graduated from the University of Arts/Academy of Dramatic Arts (theatre, film, radio and television) in Belgrade in the former Yugoslavia. He received a year-long specialization in directing in 1995 in Milan (Italy) supported by a fellowship provided by the Television of Bosnia and Herzegovina. Šemsudin Gegić is the author and director of an additional ten documentary and feature films, writer and director of the first performance of seven original stage plays, author and director of thirty documentary and documentary-feature films for which he won domestic and international plaudits and awards. He is a winner of a great number of domestic and international awards for his work in the field of drama and his documentary films: Award for the Art in recording ""Without Retake"" for the best documentary feature ""Tracing the Shadows"", Bulgaria, 2009 Maxi man - 2008, in category of Drama Art, Sarajevo, 2008 Camera veritas for the Best Documentary – “Ambassadors learning languages”, Plovdiv, Bulgaria, 2008 Golden Art Amphora for the Best Documentary –“A Boy from a War movie”, Sophia, Bulgaria, 2004 First Special Award Napolidrammaturgiain Festival for the Best Drama “La Dote”, Napoli, Italy, 2002 Special Award of the International Jury of the VI Sarajevo Film Festival for the “Following the Footprints of Shadows”, Sarajevo, Bosnia and Herzegovina, 2000 Scena Prima Award for the best play “La Sibilla di Sarajevo”, Lombardia, Italy, 1996 Annual Award of the BiH Journalist Association for TV documentary enterprise of the year, Sarajevo, Bosnia and Herzegovina, 1992 Finalist of the three best documentary radio dramas with documentary drama – “Album of a Man of the People”, RTV Festival Prix Italy, Cagliari, Italy, 1985 Isak Samokovlija Literary Award for the Best Drama “Ruho”, Competition MRZ for the Cultural and Educational Work, Pljevlja, Ex-Yugoslavia, 1984",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0088559,pan25_train_human_0088559,human,none,"Accretion-powered X-ray pulsars are among the most luminous X-ray sources inthe Galaxy. However, despite decades of theoretical and observational worksince their discovery, no satisfactory model for the formation of the observedX-ray spectra has emerged. In this paper, we report on a self-consistentcalculation of the spectrum emerging from a pulsar accretion column thatincludes an explicit treatment of the bulk and thermal Comptonization occurringin the radiation-dominated shocks that form in the accretion flows. Using arigorous eigenfunction expansion method, we obtain a closed-form expression forthe Green's function describing the upscattering of monochromatic radiationinjected into the column. The Green's function is convolved withbremsstrahlung, cyclotron, and blackbody source terms to calculate the emergentphoton spectrum. We show that energization of photons in the shock naturallyproduces an X-ray spectrum with a relatively flat continuum and a high-energyexponential cutoff. Finally, we demonstrate that our model yields goodagreement with the spectra of the bright pulsar Her X-1 and the low luminositypulsar X Per.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0222681,pan25_train_human_0222681,human,none,"Luke Bomberger was a seagoing cowboy. He crossed the Atlantic Ocean 16 times and the Pacific twice to help people affected by world war ll. He took care of horses, young cows, and mules that were shipped overseas.
+
+Along his trip he got chance to visit many places. He had the benefit of seeing Europe and China. But to him seeing the Acropolis in Greece was special he also said that taking that gondola ride in Venice, Italy also was.
+
+He fed and watered the animals and cleaned the stalls. Bales of hay and bags of oats had to be pulled from the lower holds of the ship and thats what Luke did. During the crossings caring for the animals kept Luke busy.
+
+He was a watchman and had to look out on the animals every hour and report back to the captian. One day he was doing his normal rutien, and he had slid down a slippery ladder an his backside and when he slid a small strip of metal along the edge stopped his slide, kepping from falling overboard in the Atlantic ocean. Helping on his aunt Katie's farm when he was young had prepared luke for hard work.  
+In the story it tells you of a man named Luke Bomberger and what he did as a Seagoing Cowboy.  It doesn't really try to convince you to participate in the program but if you do you can get some details from what he did to what you might do if you joined.  After this program he said ""it made me more aware of people of other countries and their needs."" ",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0189117,pan25_train_human_0189117,human,none,"The Electoral College is filled with electors that people from different states voted for. They are the people who vote and elect the president and vice president. Their votes are more imprtant than everyone elses because they are higher people than everyone else. The Electoral College consists of 538 electors. They need 270 electoral votes on a president before the elect one. Every candidate the is running for president had their own group of electors, so of course they gonna vote for them and thats not fair.  I think that each candidate shouldnt have their own electors because it wouldnt be fair if one candidate had 20 electors and another candidate has like 10  Bascially the candidate with the most electors has a better chance of winning the election. Each state has a group of electors that vote for their state and thats not right. It shouldnt be up to the electors to vote for their state, everyone should just be able to vote for who they want to be president and see what happens from there. Not everything is up to the electors.  We shouldnt keep the Electoral College its not fair that their votes matter more than the communitys  Everyone in the world is able to vote for who they want for president. Then finally when a president is elected most people are angry because the Electoral College picked who they wanted and didnt pay much attention to the communitys vote. Instead of the Electoral College voteing and choosing the president it should be up to the community. After everyone has voted, we should just add up who got the most votes and whoever did should be elected as president. It shouldnt be up to the Electoral College. Just because they are higher then everyone else, they shouldnt just be able to choose who they want for president.  Also not everyone is able to vote, and thats not fair. The Electoral College adds there votes to everyone elses and then elects the president they want. But what about the people who didnt vote? Everyone should have a chance to vote. It wouldnt be fair that the Electoral College elected a president when theres people out there who didnt even have the chance to vote its offical: the Electoral College is unfair, outdated, and irrational That is true, they arent fair because they make it so that their votes are more important than everyone elses. Most people dont even vote for president, they vote for electors in the Electoral College so they can vote for president. I bet that everytime the Electoral College voted for a president people from different states yelled and screamed at them.  So the best thing is to pay attention to who everyone in the United States is voting for instead of the Electoral College. If we keep voting like this sooner or later everyone is going to get fed up with it and do something about it themselves.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0097844,pan25_train_human_0097844,human,none,"Eastern Germany was never as closed as North Korea today, there was a fair amount of cross-border exchange even in 1961.
+Letter writing was allowed and people from Western Germany could visit family in the East on a regular basis. On the one hand, too much contact of citizens was a problem for the East German authorities, on the other hand they really needed the Western money that visitors brought. West Germans could also buy hard to get east German products for their family using a special mail order company, another source of currency for the regime. East Germans could sometimes visit the West, if they weren't considered an escape risk and left ""hostages"" in the form of spouses or young children behind. Pensioners however could visit West Germany up to four weeks every year. 
+In the movie ""Sonnenallee"" we see a West German uncle/brother who visits his sister and her kids in East Berlin on a regular basis. His sister, a middle aged woman is allowed to go to the West to attend her brothers funeral when he dies.
+Moving from East to West did occur, but was very hard, except for the elderly. If you applied for emigration, you were strongly discouraged to go through with it, would lose any chance for promotion or good school or jobs for your children, etc. However, emigration was legal, and between 1961 and 1988 383.000 people emigrated from the GDR. In the same period, 222.000 left illegally: most of them while they didn't return from a voyage to the west, but also a large number because they were ransomed by the West German government who paid 40.000-100.000 DM per person. These were both political prisoners and people who were deemed indispensable for the DDR. Then there was a much smaller group who actually crossed the border illegally.
+Of course, if you were politically suspect then contact with the West could be restricted or completely forbidden.
+Edit: Name of the movie. Rosenstrasse is a movie about women protesting against the deportation of their Jewish husbands by the Nazi's, has nothing to do with DDR. I meant Sonnenallee.",pan25,train,English,LLM-DetectAIve,val
+pan25_dev_human_0039079,pan25_dev_human_0039079,human,none,"This paper explores the ability of nonlinear recurrent neural networks to account for neural response properties that have otherwise eluded the ability of other models.  A multilayer rnn is trained to imitate the stimulus-response mapping measured from actual retinal ganglion cells in response to a sequence of natural images.  The rnn performs significantly better, especially in accounting for transient responses, than conventional LN/GLM models.
+
+This work is an important step in understanding the nonlinear response properties of visual neurons.  Recent results have shown that the responses of even retinal ganglion cells in response to natural movies are difficult to explain in terms of standard receptive field models.  So this presents an important challenge to the field.  If we even had *a* model that works, it would be a starting point.  So this work should be seen in that light.  The challenge now of course is to tease apart what the rnn is doing.  Perhaps it could now be pruned and simplified to see what parts are critical to performance.  It would have been nice to see such an analysis.   Nevertheless this result is a good first start and I think important for people to know about.
+
+I am a bit confused about what is being called a ""movie.""  My understanding is that it is essentially a sequence of unrelated images shown for 1 sec. each.  But then it is stated that the ""frame rate"" is 1/8.33 ms.  I think this must refer to the refresh rate of the monitor, right?   
+
+I would guess that the deviations from the LN model are even stronger when you show actual dynamic natural scenes - i.e., real movies.  Here I would expect the rnn to have an even more profound effect, and potentially be much more informative.",pan25,dev,English,m4gt-bench,test
+pan25_train_human_0247543,pan25_train_human_0247543,human,none," The distribution function of local amplitudes of single-particle states in
+disordered conductors is calculated on the basis of the supersymmetric
+$\sigma$-model approach using a saddle-point solution of its reduced version.
+Although the distribution of relatively small amplitudes can be approximated by
+the universal Porter-Thomas formulae known from the random matrix theory, the
+statistics of large amplitudes is strongly modified by localization effects. In
+particular, we find a multifractal behavior of eigenstates in 2D conductors
+which follows from the non-integer power-law scaling for the inverse
+participation numbers (IPN) with the size of the system. This result is valid
+for all fundamental symmetry classes (unitary, orthogonal and symplectic). The
+multifractality is due to the existence of pre-localized states which are
+characterized by power-law envelopes of wave functions, $|\psi_t(r)|^2\propto
+r^{-2\mu}$, $\mu <1$. The pre-localized states in short quasi-1D wires have the
+power-law tails $|\psi (x)|^2\propto x^{-2}$, too, although their IPN's
+indicate no fractal behavior. The distribution function of the
+largest-amplitude fluctuations of wave functions in 2D and 3D conductors has
+logarithmically-normal asymptotics.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0104025,pan25_train_human_0104025,human,none,NASA`s had send a spacecraft called Viking 1. Many of the people that were working on this were think it was something else  When it came out 1976 many peolpe think it was made by aliens. But on one know that it was  So it be came an icon for the plant mars. Many people think it was aliens that made the face or hills that from the face on mars. 22 years later Mars Global surveyor had a spacecaft that was going aronud mars to the face but when they did they take the image. Many were happy to see other image. But it did not came a clear as they what it to be  i think it could be is that a rock may crash into mars and made the face  But over time sand bulid over it gave what it look like in 1976. In the photograph you can see that it maybe face but you can see that it can be a hill. What are the black spot in the photograph that we see here. It could be that is that can be made on mars by wnich it from by.                                      ,pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0009712,pan25_train_human_0009712,human,none,"The Empire State Building was built as the tallest building in the World and even today still remains one of the tallest. It had design plans with more of a purpose then just being the tallest building, however. It was supposed to serve as a passenger exchange and a refueling dock for dirigibles. Most people do not know this though because there were many complications involved with the architectural designs of this plan for the mast. Architects knew it would not be easy to build such a creation and that they ""could not simply drop a mooring mast on top of the Empire State Building."" They knew, for example that the building needed to be modified to accommodate for the added stress from the mast and the height of the building would need to be increased. They made the necessary changes to the building but the realities of the progect soon set in, and the mast was never built, ""the greatest reason being for safety."" The hydrogen used to power the dirigibles was highly flamable and endangered the citizens of New York Also, according to the aricle, ""the greatest obstacle to the successful use of the mooring mast was nature itself."" There are powerful winds at that high of an altitude that would blow and make it difficult as for the dirigibles to be properly controlled and navigated.",pan25,train,English,TriBERT,train
+pan25_train_human_0174749,pan25_train_human_0174749,human,none," We employ the Gamow shell model (GSM) to describe low-lying states of the
+oxygen isotopes 24O and 25O. The many-body Schrodinger equation is solved
+starting from a two-body Hamiltonian defined by a renormalized low-momentum
+nucleon-nucleon (NN) interaction, and a spherical Berggren basis. The Berggren
+basis treats bound, resonant, and continuum states on an equal footing, and is
+therefore an appropriate representation of loosely bound and unbound nuclear
+states near threshold. We show that such a basis is necessary in order to
+obtain a detailed and correct description of the low-lying 1+ and 2+ excited
+states in 24O. On the other hand, we find that a correct description of binding
+energy systematics of the ground states is driven by proper treatment and
+inclusion of many-body correlation effects. This is supported by the fact that
+we get 25O unstable with respect to 24O in both oscillator and Berggren
+representations starting from a 22O core. Furthermore, we show that the
+structure of these loosely bound or unbound isotopes are strongly influenced by
+the 1S0 component of the NN interaction. This has important consequences for
+our understanding of nuclear stability.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0142542,pan25_train_human_0142542,human,none,"Bullets have a lot of momentum associated with them because they are going so fast. If you stop a bullet all that energy has to go somewhere. If the bullet slams into a bone that stops it dead, all that kinetic energy will be absorbed into the bone and it is liable to explode and sent shards throughout the body. If the bullet is stopped by soft tissue, the energy will get diffused all around and can form a cavity up to 30x larger than the bullet itself. Having a bullet go straight through you is bad because it could still hit a major blood vessel and it leaves two holes to fix, but the alternative associated with only an entry wound is frequently much worse.
+The idea that the bullet needs to be removed for an infection risk is complete BS. Trauma surgeons frequently don't even remove the bullet if going after it would induce more trauma, because if the bullet is stable (not moving) it's really not going to hurt anything. The infection risk is way higher for the gaping hole than any chunk of hot metal that is probably sterile.",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0045405,pan25_dev_human_0045405,human,none,"An Old Captivity is a novel by British author Nevil Shute. It was first published in the UK in 1940 by William Heinemann.
+Plot summary
+The principal character is a young Scottish pilot with bush-flying experience in Canada, Donald Ross, who is hired by an Oxford don, Cyril Lockwood, to pilot an air survey mission of Brattalid in Greenland. Lockwood's interest is in the early Viking seafarers and their exploits, and although he appears to have little knowledge of the needs of such a project, he insists on their starting as soon as possible, with his elder brother David, a businessman, providing finance.
+Ross, as the hired expert, then has to contend with the 'helpful' suggestions from both the financier and Lockwood's young daughter, Alix. This causes early tensions in the preparatory stages.
+While the preliminary dig is ongoing Ross shoulders much responsibility including keeping the aircraft safe in a tidal zone. Worn out with the expedition's work – all of which has fallen solely on him – and a prolonged lack of sleep induced by worry over the expedition, he enters a coma induced by the sleeping tablets he has been forced to take to keep going, and in it dreams that he and Alix were once Scottish slaves aboard Leif Ericson's vessel on its voyage of discovery to Greenland. A part of this dream includes the leaving behind by the two slaves of a stone, with their names carved on it, at the Viking explorers' landing point in North America.
+Ross recovers and tells Alix and the don of his dreams. The last remnant of photographic survey is successfully completed, and the three complete their air crossing to North America, making landfall in eastern Canada. Flying down the coast towards New York Ross recognizes where he dreamed Leif Ericson's expedition landed on the coast of Cape Cod; they land to investigate and find the stone with the slaves' names on it.
+The technical details of a trans-Atlantic flight of this period (late 1930s) are accurate and of interest. The type of aircraft is a fictional radial-engined floatplane intended for bush use, made by a fictional Detroit firm named Cosmos. It corresponds roughly to the performance of a Noorduyn Norseman.
+This was Shute's first attempt at re-incarnation as a plot, a second later work on this theme is In the Wet.
+External links
+ 
+1940 British novels
+Novels by Nevil Shute
+Aviation novels
+Heinemann (publisher) books",pan25,dev,English,LLM-DetectAIve,train
+pan25_train_human_0199748,pan25_train_human_0199748,human,none," This paper introduces a new time-frequency representation method for
+biomedical signals: the dyadic aggregated autoregressive (DASAR) model.
+Signals, such as electroencephalograms (EEGs) and functional near-infrared
+spectroscopy (fNIRS), exhibit physiological information through time-evolving
+spectrum components at specific frequency intervals: 0-50 Hz (EEG) or 0-150 mHz
+(fNIRS). Spectrotemporal features in signals are conventionally estimated using
+short-time Fourier transform (STFT) and wavelet transform (WT). However, both
+methods may not offer the most robust or compact representation despite their
+widespread use in biomedical contexts. The presented method, DASAR, improves
+precise frequency identification and tracking of interpretable frequency
+components with a parsimonious set of parameters. DASAR achieves these
+characteristics by assuming that the biomedical time-varying spectrum comprises
+several independent stochastic oscillators with (piecewise) time-varying
+frequencies. Local stationarity can be assumed within dyadic subdivisions of
+the recordings, while the stochastic oscillators can be modeled with an
+aggregation of second-order autoregressive models (ASAR). DASAR can provide a
+more accurate representation of the (highly contrasted) EEG and fNIRS frequency
+ranges by increasing the estimation accuracy in user-defined spectrum region of
+interest (SROI). A mental arithmetic experiment on a hybrid EEG-fNIRS was
+conducted to assess the efficiency of the method. Our proposed technique, STFT,
+and WT were applied on both biomedical signals to discover potential
+oscillators that improve the discrimination between the task condition and its
+baseline. The results show that DASAR provided the highest spectrum
+differentiation and it was the only method that could identify Mayer waves as
+narrow-band artifacts at 97.4-97.5 mHz.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0081334,pan25_train_human_0081334,human,none,"We analyze the local field of stellar tangential velocities for a sample of$42 339$ non-binary Hipparcos stars with accurate parallaxes, using a vectorspherical harmonic formalism. We derive simple relations between the parametersof the classical linear model (Ogorodnikov-Milne) of the local systemic fieldand low-degree terms of the general vector harmonic decomposition. Takingadvantage of these relationships we determine the solar velocity with respectto the local stars of $(V_X,V_Y,V_Z)=(10.5, 18.5, 7.3)\pm 0.1$ \kms. The Oort'sparameters determined by a straightforward least-squares adjustment in vectorspherical harmonics, are $A=14.0\pm 1.4$, $B=-13.1\pm 1.2$, $K=1.1\pm 1.8$, and$C=-2.9\pm 1.4$ \kmspc. We find a few statistically significant higher degreeharmonic terms, which do not correspond to any parameters in the classicallinear model. One of them, a third-degree electric harmonic, is tentativelyexplained as the response to a negative linear gradient of rotation velocitywith distance from the Galactic plane, which we estimate at $\sim -20$ \kmspc.The most unexpected and unexplained term within the Ogorodnikov-Milne model isthe first-degree magnetic harmonic representing a rigid rotation of the stellarfield about the axis $-Y$ pointing opposite to the direction of rotation. Thisharmonic comes out with a statistically robust coefficient $6.2 \pm 0.9$\kmspc, and is also present in the velocity field of more distant stars. Theensuing upward vertical motion of stars in the general direction of theGalactic center and the downward motion in the anticenter direction areopposite to the vector field expected from the stationary Galactic warp model.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0078752,pan25_train_human_0078752,human,none,"You said it yourself in your own title: rape *scandals* get huge media coverage.
+Its often claimed that our society is overly permissive of rape. Look at Baylor, where credible and confirmed sexual assaults have been swept under the rug for years. Look at Stanford, where Brock Turner received only six months in jail for raping an unconscious woman. Look at Bill Cosby, who may have assaulted dozens of women since the 1960s and probably won't spend a day in jail. Say what you will about patriarchy and feminism, but you'd be insane not to say there's a pattern here.
+Murders rarely cause controversy because our society isn't overly permissive of murder; murderers are consistently investigated and prosecuted to the full extent of the law. There isn't news here because law enforcement, for the most part, does its job.
+Although even that is changing; the rise in gun violence and spree shootings have made people open their eyes and created media controversy; it's just usually over the laws and not the law enforcement or societal norms.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0102798,pan25_train_human_0102798,human,none," Purpose: Protoplasmic tubes of Physarum polycephalum, also know as Physarum
+Wires (PW), have been previously suggested as novel bio- electronic components.
+Until recently, practical examples of electronic circuits using PWs have been
+limited. These PWs have been shown to be self repairing, offering significant
+advantage over traditional electronic components. This article documents work
+performed to produce practical circuits using PWs. Method: We have demonstrated
+through manufacture and testing of hybrid circuits that PWs can be used to
+produce a variety of practical electronic circuits. A purality of different
+applications of PWs have been tested to show the universality of PWs in
+analogue and digital electronics. Results: Voltage dividers can be produced
+using a pair of PWs in series with an output voltage accurate to within 12%.
+PWs can also transmit analogue and digital data with a frequency of up to 19
+kHz, which with the addition of a buffer, can drive high current circuits. We
+have demonstrated that PWs can last approximately two months, a 4 fold increase
+on previous literature. Protoplasmic tubes can be modified with the addition of
+conductive or magnetic nano-particles to provide changes in functionality.
+Conclusion This work has documented novel macro-scale data transmission through
+biological material; it has advanced the field of bio-electronics by providing
+a cheap and easy to grow conducting bio-material which may be used in future
+hybrid electronic technology.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0262508,pan25_train_human_0262508,human,none,"There are quite a few of these lists produced each year and they all have some slight differences. Generally though, they look at crime levels, security (national), healthcare, rights/freedoms, weather, education and transport. Some also include surveys of the population on general happiness as well.
+As other posters have pointed out, Australian cities also tend to score highly on these lists. Both Australia and Canada have free (and well-funded) healthcare which has led to some of the highest life expectancies in the world. Well funded police forces and public education systems (as well as a lot of private schools) contribute as well. Neither country has an aggressive neighbour, and both are liberal democracies which rarely impinge on their citizens rights. As far as transport goes, looking at the cities generally on these lists, they tend to be smaller, which facilitates easy commutes.
+Edit: The other huge factor I overlooked is cost of living, and how it compares to the average wage. If most people in the city have a high average wage, then the city will tend to move up the liveability scale as more amenities are accessible.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0253105,pan25_train_human_0253105,human,none," Collect your ingredients accordingly.
+If you’re using a box brownie, you’ll probably also need a couple eggs, some vegetable oil, and some water (generally). You may use the back of the box for this step! If you’re making brownies from scratch, there are a range of recipes available. The subsequent steps explain one of the options!;
+Remember that flour is light, so you should not stir in all of the flour at once. Start with 1/2 cup, then 1/2 cup, then 1/4 cup to make sure you don’t lose any flour.
+If you would like to use baking powder instead of baking soda, use about ½ teaspoons of baking powder.
+While the brownie is still warm, use the bottom of a wooden spoon to poke small holes into the brownie.
+You may make as many or as few holes as you want. Ideally, do about 35 holes, 5 down and 7 across.
+Put your 30 pieces caramel, ¼ cup of milk, and 1/8 stick of butter or margarine into a pan on put it over low heat until smooth.
+You may also heat the caramel up in the microwave, putting it in for 1-minute intervals until smooth, stirring between intervals.
+As soon as the caramel is smooth, pour it over the brownie while the brownie is still in the pan. You should use a spatula to spread it evenly over the entire brownie.
+It should be left in the fridge for at least an hour to cool off.
+While your brownie is cooling off, put your candy on a cutting board and cut it up into small pieces.
+This step may also be done later, if you would prefer.
+Once the caramel brownie has cooled off, and the caramel is partially hardened over the brownie, take the brownie out of the fridge.
+Cover the entire brownie with the whipped cream, making it as thick or thin as you would prefer.
+If you have not chopped up your candy, you should now do it. Make sure the pieces are relatively small. When they are at the size of your preference, sprinkle them over the top of your cream pie to finish it off.
+You may want to put your brownie back in the fridge if you do not serve it right away. The whipped cream melts rather quickly, so it’s best if served cold!
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0202196,pan25_train_human_0202196,human,none," We improve the estimation of the distribution of the nontrivial zeros of
+Riemann zeta function $\zeta(\sigma+it)$ for sufficiently large $t$, which is
+based on an exact calculation of some special logarithmic integrals of
+nonvanishing $\zeta(\sigma+it)$ along well-chosen contours. A special and
+single-valued coordinate transformation $s=\tau(z)$ is chosen as the inverse of
+$z=\chi(s)$, and the functional equation $\zeta(s) = \chi(s)\zeta(1-s)$ is
+simplified as $G(z) = z\, G_-(\frac{1}{z})$ in the $z$ coordinate, where
+$G(z)=\zeta(s)=\zeta\circ\tau(z)$ and $G_-$ is the conjugated branch of $G$.
+Two types of special and symmetric contours $\partial D_{\epsilon}^1$ and
+$\partial D_{\epsilon}^2$ in the $s$ coordinate are specified, and improper
+logarithmic integrals of nonvanishing $\zeta(s)$ along $\partial
+D_{\epsilon}^1$ and $\partial D_{\epsilon}^2$ can be calculated as $2\pi i$ and
+$0$ respectively, depending on the total increase in the argument of
+$z=\chi(s)$. Any domains in the critical strip for sufficiently large $t$ can
+be covered by the domains $D_{\epsilon}^1$ or $D_{\epsilon}^2$, and the
+distribution of nontrivial zeros of $\zeta(s)$ is revealed in the end, which is
+more subtle than Riemann's initial hypothesis and in rhythm with the argument
+of $\chi(\frac{1}{2}+it)$.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0194520,pan25_train_human_0194520,human,none,"I took a tour of the Nevada Test Site where, until 1991 when the non nuclear testing treaty was signed with Russia, they tested all US nuclear weapons. Over 800 underground tests were performed there. How it works is they dig an extremely deep tunnel, 5,000 ft or more, they then build a vessel to drop down the tunnel which contains the nuclear weapon, and above it, several testing instruments. The vessel is then dropped down the hole with a stream of wires from the testing instruments to the surface. The hole is then sealed and the bomb is detonated, vaporizing everything within a radius of the bombs blasting power (including the testing instruments). A cavity is formed by the vaporization and eventually the earth sinks to fill it in, leaving a crater at surface level. 
+The reason for testing underground is probably obvious, it does not leave radioactive material exposed to humans.
+The Nevada Test Site is covered in craters from these tests. Here is a photo: _URL_1_. Some of them they drove our bus down into to give an idea of how large they were.
+Note: The tour of the Nevada Test Site is available to the public for free, you must register ahead of time with the US Department of Energy here (_URL_0_) and the tours, held monthly, leave from the National Atomic Testing Museum in Las Vegas, NV.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0086206,pan25_train_human_0086206,human,none,"We perform a detailed study of inverse Compton (IC) emission for a fireballundergoing external shock (ES) in either a uniform or a wind-like interstellarmedium, and assess the relative importance of IC and synchrotron emissions. Wedetermine the primary model parameters driving the IC to synchrotron emissionratio in the case of a short duration central engine. We then investigate thecase of ES by a long duration central engine, or delayed external shock (DES),a model that can account for some of the flares observed in GRB X-ray lightcurves. We present model predictions, in particular in terms of GeV vs X-raybehavior, and compare them with other models proposed to explain the origin offlares. We find that if most of the emission occurs when the fireball is in thefast cooling regime, then a substantial GeV emission is expected both for ashort (standard ES) and a long (DES) duration central engine activity. Inparticular, in the context of standard ES we are able to account for thedelayed emission observed in GRB940217. In the case of DES, we find that ICscattering of X-ray flare photons can produce high energy flares in the GeVband, which can be detected by GLAST. The detectability of high energy flaresimproves with the burst kinetic energy: about 30% of Swift GRBs showing flaresin their X-ray light curve have sufficiently large kinetic energy so that theexpected high flares can be detected by GLAST. One important prediction of theDES model is the simultaneity between low and high energy flares. To test thissimultaneity, the peak energies of both flares need to fall below or within theobservational bands. We predict that X-ray flares with peak energy of ~10 eVproduce high energy flares with peak energy of around 100 MeV-GeV. Observationsby Swift and GLAST then, can test the predicted simultaneity.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0075061,pan25_train_human_0075061,human,none,";
+Don't overdo the shopping. Just go as per the requirements of your list.
+Quickly take a warm shower (it helps, any season)
+This breathing should inflate your stomach during inhalation and flatten it during exhalation. Do this for 10 minutes (keep a timer if necessary). It relaxes you immediately.
+Try to look relaxed and presentable (take deep breaths, whenever you can).
+Or better still, invite them to the kitchen to help you.
+As you've had a busy day, you will automatically tend to think of it and the conversation might revolve around it. Instead try to think of something positive about your guests and make it a point to discuss about the same.
+Introduce humor into your conversation as everyone could use some at the end of a day. Listen more, do not lead the conversation towards yourself or how tiring your day was, lest your guests feel unwelcome.
+Don't crash on that inviting couch but finish off this chore as soon as possible. Help is a must-get. If you don't have help, try to finish only the amount you can manage before you are completely burned out.
+Try adding some herbal/olive oil into the water for better sleep and a fresh new you in the morning!
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0011224,pan25_train_human_0011224,human,none,I think when she take the test over it is going to be in the spring and She is going to try and pass it . But she did not want to cry in front of her mother . I think she is going to make it up to her and pass the test.,pan25,train,English,TriBERT,train
+pan25_train_human_0090461,pan25_train_human_0090461,human,none,"The necessary and proper clause is a part of the Constitution that allows Congress to pass laws that needed to actually act on its other powers. 
+To understand why that is needed, you need to look at the structure of the federal government. In the United States, the Constitution gives Congress only ""enumerated"" powers. This means that, unlike the states, Congress is only empowered to pass laws on specific kinds of subjects. 
+So, for instance, Congress can pass a law regulating interstate commerce, or pass laws to set the rules for bankruptcy. But they can't necessarily pass a law that forces everyone to exercise every day. (which a state arguably could pass).
+But, the people writing the constitution were worried that people might overdo this. For instance, Congress had the power to regulate interstate commerce, but did that include the right to pass a law to pay the salary of someone to enforce that law? Does the right to regulate bankruptcy include the right to hire judges to decide bankruptcy cases?
+That question was answered with the necessary and proper clause. It gives Congress the power to pass the laws ""Necessary and proper"" to carrying out their other powers.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0106042,pan25_train_human_0106042,human,none,"Merle Lindsay Salathiel (1916 – October 12, 1965), better known as Merl Lindsay, was one of the premier American Western swing musicians from the 1930s to the mid-1960s and founder of Merl Lindsay and His Oklahoma Night Riders.
+Life and career
+Merle Lindsay Salathiel was born in Oklahoma City, Oklahoma to Clarence Earl and Louella Salathiel, early pioneers of the Oklahoma Territory. He began his music career in 1936 playing fiddle in his father (C.E. Salathiel)'s ballroom, Salathiel's Barn. In 1937 he formed his first band, the Barnyard Boys. In 1947, he created a larger band and added a female singer, calling the group Merl Lindsay and His Oklahoma Night Riders. During the 1940s, he owned a ballroom in Compton, California, and broadcast over a four-station radio hookup in Hollywood and Long Beach. He also performed with Jimmy Wakely in Western B-movies.
+In 1957, Lindsay joined ABC-TV's Ozark Jubilee, taking over the ten-piece Ozark Jubilee Band. His group adopted the name when the TV program's title was changed to Country Music Jubilee the next year. During later years he toured the US and performed at his ballroom, Lindsayland, in Oklahoma City.
+Many famous Western swing musicians performed with Lindsay's bands over the years. Two of his female singers were Wanda Jackson and Norma Jean. His brother, Doyle Salathiel (1920–1976), played with Lindsay's bands as well as others, and was a composer who wrote the words for the band's signature song, ""Water Baby Blues"". Lindsay's nephew, Max Salathiel (1935–2006), an accomplished Oklahoma City guitar player, also worked with his band in the 1950s, as did his sister Alojah Salathiel.
+Other band members included Robert ""Buddy"" Ray, Rudy Martin, Frederick ""Freddie"" Loveland, Louvenie Loveland, Ted Haff, Mike Hugo, Clarence Bailey, Homer Bean, Gerald ""Buster"" Magness, Gene Jones (steel guitar) and Sonny Rogers.
+Lindsay was married to Doris Salathiel. He had three children, Merlynn Salathiel, Denzel Salathiel (1952-2016) and Jackie Merle Phillips (1934-2000). Lindsay died in Oklahoma City from cancer on October 12, 1965. He is buried in Sunnylane Cemetery in Del City, Oklahoma.
+Compositions 
+Lindsay wrote many songs that became hits for himself and other Western swing artists. Among them:
+ ""Lonesome Okie Goin' Home""
+ ""Shimmy Shakin' Daddy""
+ ""Slidin' Steel"" (with Gene Crownover)
+ ""Water Baby Blues/Water Baby Boogie""
+Notes
+References
+Boyd, Jean Ann. The Jazz of the Southwest: An Oral History of Western Swing. University of Texas Press, 1998. 
+Coffey, Kevin. Merl Lindsay and his Oklahoma Nite Riders (Krazy Kat KKCD 33, 2005) insert.
+Tribe, Ivan. Country: A Regional Exploration. Greenwood Press, 2006. 
+Wolfe, Charles K.; James E. Akenson. Country Music Annual 2002, University Press of Kentucky, 2002.
+External links
+Partial Merl Lindsay discography
+1916 births
+1965 deaths
+Deaths from cancer in Oklahoma
+Western swing performers
+Musicians from Oklahoma
+Western swing fiddlers
+Four Star Records artists
+Mercury Records artists
+20th-century American violinists",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0221257,pan25_train_human_0221257,human,none,"The flaw in this logic is that you have to understand what happens with the money of people in the top tax brackets. People in the top tax brackets usually reinvest that money so that they can receive larger gains from that money, instead of sitting it in an account when they have no intentions of spending all of it. 
+So, if (for example) I make $10 million a year, I may decide to use the first million for my regular personal expenses (say: house payment, food, travel, whatever), basically my living money. With the other money, I would want to put it into mutual funds, stocks, investments in startups, etc, so that I can earn more money off of that income. 
+What happens with that money is it gets put into new small investments, or further research and development in certain industries. This helps the overall economy quite a bit.
+Alternatively, if I were taxed at 70% on the income earned about the initial $1 million, I would only be left with $2.7 million to put into those types of investments. This severely stifles the market's ability to grow. It was demonstrated in the U.S. during the 50s-80s when our progressive tax system did increase to those levels. At one point the top tax bracket was taxed at 94%...
+**Disclaimer:** I was simplifying the numbers here to make things easier to visualize and because there's not much difference between comparing our current tax brackets as opposed to comparing a 0% system. Just assume that I was giving an example where I didn't pay any taxes at all, vs paying 70% on all income above $1 million.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0232442,pan25_train_human_0232442,human,none," Arising from the interplay between charge, spin and orbital of electrons,
+spin-orbit torque (SOT) has attracted immense interest in the past decade.
+Despite vast progress, the existing quantification methods of SOT still have
+their respective restrictions on the magnetic anisotropy, the entanglement
+between SOT effective fields, and the artifacts from the thermal gradient and
+the planar Hall effect, etc. Thus, accurately characterizing SOT across diverse
+samples remains as a critical need. In this work, with the aim of removing the
+afore-mentioned restrictions, thus enabling the universal SOT quantification,
+we report the characterization of the sign and amplitude of SOT by angular
+measurements. We first validate the applicability of our angular
+characterization in a perpendicularly magnetized Pt/Co-Ni heterostructure by
+showing excellent agreements to the results of conventional quantification
+methods. Remarkably, the thermoelectric effects, i.e., the anomalous Nernst
+effect (ANE) arising from the temperature gradient can be self-consistently
+disentangled and quantified from the field dependence of the angular
+characterization. The superiority of this angular characterization has been
+further demonstrated in a Cu/CoTb/Cu sample with large ANE but negligible SOT,
+and in a Pt/Co-Ni sample with weak perpendicular magnetic anisotropy (PMA), for
+which the conventional quantification methods are not applicable and even yield
+fatal error. By providing a comprehensive and versatile way to characterize SOT
+and thermoelectric effects in diverse heterostructures, our results pave the
+important foundation for the spin-orbitronic study as well as the
+interdisciplinary research of thermal spintronic.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0193294,pan25_train_human_0193294,human,none,"Sky Classic (March 17, 1987 – April 30, 2015) was a Canadian Thoroughbred Hall of Fame racehorse. A son of U.K. Triple Crown champion Nijinsky, in 1989 Sky Classic won the Sovereign Award for Champion 2-Year-Old Male Horse in Canada but injuries kept him out for the most of the 1990 racing season.
+Back racing on grass in 1991, Sky Classic won six of his nine starts including the prestigious Rothmans International in course record time. The following year with Pat Day riding, he set a new race record in the Arlington Handicap, defeated Fraise in the Turf Classic Invitational at Belmont Park, but lost his two biggest races that year, a second in the Arlington Million to Dear Doctor, and another second by a nose to Fraise in the Breeders' Cup Turf. However, his five other wins that year earned him the 1992 United States Eclipse Award for Outstanding Male Turf Horse.
+Retired in 1993, Sky Classic stood stud at Pin Oak Stud, LLC in Versailles, Kentucky. He has sired more than 50 Graded stakes race winners including:
+ Thornfield (b. 1994) - 1999 Canadian Horse of the Year
+ Nothing To Lose (b. 2000) - Multiple stakes winner including the G1 Turf Mile Stakes
+ Sky Conqueror (b. 2002) - Canadian Champion Male Turf Horse (2006) Grade 1 winner in U.S., career earnings $1,720,699
+ Hyperbaric (b. 2003) - won G1 Citation Handicap, G2 Oak Tree Mile Stakes
+Sky Classic was inducted in the Canadian Horse Racing Hall of Fame in 1998. He died in his paddock an Pin Oak on 30 April 2015.
+References
+ Sky Classic's pedigree and stats
+ Sky Classic at the Canadian Horse Racing Hall of Fame
+1987 racehorse births
+2015 racehorse deaths
+Racehorses bred in Canada
+Racehorses trained in Canada
+Horse racing track record setters
+Sovereign Award winners
+Eclipse Award winners
+Canadian Horse Racing Hall of Fame inductees
+Thoroughbred family 23-b",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0031813,pan25_dev_human_0031813,human,none,"I read the authors' response and maintain my rating.
+
+---
+
+This paper introduces an approach for integrating a direct acyclic graph structure of the data into word / code embeddings, in order to leverage domain knowledge and thus help train an RNN with scarce data. It is applied to codes of medical visits. Each code is part of an ontology, which can be represented by a DAG, where codes correspond to leaf nodes, and where different codes may share common ancestors (non-leaf nodes) in the DAG. Instead of embedding merely the leaf nodes, one can also embed the non-leaf nodes, and the embeddings of the code and its ancestors can be combined using a convex sum. That convex sum can be seen as an attention mechanism over the representation. The attention weights depend on the embeddings and the weights of an MLP, meaning that the model can separate learning the code embeddings and the interaction between the codes. Embedding codes are pretrained using GloVe, then fine-tuned.
+
+The model is properly evaluated on two medical datasets, with several variations to isolate the contribution of the DAG (GRAM or GRAM+ vs. RNN or RandomDAG) and of pretraining the embeddings (RNN+ vs RNN, GRAM+ vs GRAM). Both are shown to help achieve the best performance and the evaluation methodology seems thorough.
+
+The paper is also well written, and the case for MLP attention instead of a plain dot product of embeddings was made by the authors.
+
+My only two comments would be:
+1) Why is there a softmax in equation 4, given that the loss is multivariate cross-entropy (in the predicted visit, several codes could be equal to 1), not a a single-class cross-entropy?
+2) What is the embedding dimension m?",pan25,dev,English,m4gt-bench,train
+pan25_train_human_0187001,pan25_train_human_0187001,human,none," Bases arms should be in front of them making a cupping position with their hands while elbows are bent and by the sides. The flyer will position herself behind the bases with her arms on their shoulders. The backspot will then be behind the flyer with her hands on the flyer's waist.;
+, The bases should bend their knees so they can use their legs to absorb weight. The backspot will communicate that they are loading in by calling out ready, 1, 2 or tic toc, 1, 2. After the two is called the flyer will jump with the assistance of the backspot. The bases will keep eyes on the flyer and catch her feet.
+, The flyer will extend both legs and lock out. Backspot will help the bases lift the weight by holding onto the ankles and pulling up. Weight should be divided equally from the flyer.
+, The backspot will then will call out switch two and the base that has the left foot will switch her hands over to the right foot with the other base. The backspot will move both hands onto the right ankle of the flyer and continue to pull up the weight.
+,, The bases and the backspot will all dip their arms down to shoulder level. The flyer should stay tight for this step and keep locked out.
+, The backspot will release the right ankle while throwing the flyer back up. The flyer will switch legs that the bases will be holding. The flyer will place her left foot right into the spot that her left foot was at and should hit a lib once again. The bases will catch the foot and the stunt should be at extended arms.
+, The bases and the backspot will all dip their arms down to shoulder level. The flyer should stay tight for this step and keep locked out.
+, The backspot will release the right ankle while throwing the flyer back up. The flyer will switch legs that the bases will be holding. The flyer will place her left foot right into the spot that her left foot was at. The bases will catch the foot and the stunt should be at extended arms.
+,, On the Two the bases will dip using their legs. The bases will flick their hands throwing the flyer into the air. The backspot will dip with the bases and also release the flyer. The flyer will ride the cradle up keeping straight. Once the flyer starts to come down she will hit a pike position. The bases and backspot will put their arms up and absorb her landing in their arms. The bases will have an arm on the legs and the back. The backspot will have her arms underneath the flyers armpits.
+,",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0201679,pan25_train_human_0201679,human,none,"When you ask the public for advice they will always talk to a random person if there for advice on what to do or something important. An good start is always there parents because there are your mother and father legally and you will always trust your parents.  I believe strongly that asking more than one person for advice could help you in your lifetime eventually.
+ A more of an approve in advice in life is always asking for small advice. The advice can take you somewhere when you ask for advice you either ask for small or an agreement into when looking into advice. Advice can lead to disagreements or agreements. Most advice comes from a decision in the head due to if they wanted to do something an example rob a store. Most people will talk to people if thats a right choice or a bad choice. Or a agreement to break up with there girlfriend or not. Those people can help you make those decisions in life because your getting a better understatement to think about it and make your decision.
+ Advice can lead into a do or die situation  Not saying that a bad thing but advice can lead you to do or die. But those situation can cause you to go to more trusted people and asking them for advice.  But some people say that asking strangers for advice is not a good idea because they will either give them bad advice or your talking to someone that is clueless on advice and you should trust only your self.  But there are right but in a wrong way. Trusting yourself can lead into a worse situation to get your self out or a good way and if you cant make a decision you will have depression for the rest of your life.  But asking people for advice make having a decision so much better in anyway for example you have three choices to make and you canÃÂ´t decide so let the public decide for you. asking people for advice can lead to good things depends on who your talking to. Asking your siblings for advice or youÃÂ´r friends or advice is a good way to leave a good mark in youÃÂ´r soul. In conclusion ask the people that you can trust and good stuff will come out of it evenly",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0219371,pan25_train_human_0219371,human,none,"Estimating scores for a board of chess can be extremely difficult. Counting the pieces is a good start, but there might be situations where a player is behind on pieces but still has an advantage. 
+Position is also a factor, some pieces are a lot more useful when placed in some way. To account for this the computer probably has, for each type of piece, a grid which give it a different score depending on where it is.
+That's the simple part: to truly estimate how good is a board, you have to take into account what your opponent will do the following turn, and what you will do after that, etc... 
+The ""perfect"" algorithm would simulate all possible outcome from the current board and then give it a score depending on the number of winning outcomes. This is extremely computationally expensive however, as the number of possibility grows exponentially as the simulation goes on. 
+Most engines will limit themselves to simulate a few turns (like 5-6) and give estimations based on that (they look at all the possible 5-turns outcomes, rate them using a simple heuristic (like the number of pieces weighted by their position), and return the average score or something similar). 
+[Edit] An other approach is to use the [monte-carlo method](_URL_0_): the computer starts with the current board and play random moves until the game is over. Then it does it again a few thousand (or million) times and use the ratio of game won/lost to estimate the state of the board. 
+This works very well as a quick heuristic and is usually used in conjunction with other approach to give them a better view into the long game. (Typically the engine may simulate the next 5 turns properly and then switch to monte-carlo to go to the end of the game)",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0048405,pan25_dev_human_0048405,human,none,"Before awareness of celiac disease most people who had it either dealt with it or naturally over times figured out what not to eat. I would imagine that some picky people with simple and routine diets (like steak and potato guys) would have some kind of issues eating other foods. Symptoms of wheat allergy can be misdiagnosed rather easily and as awareness grows more people are being recognized with genuine cases of the disease.
+ Nowadays though most people who claim they have celiac disease seem to be self diagnosing. So many people now are ""gluten free"" despite evidence that for most people, and i use most in the greatest sense, grains are non harmful and in proper proportion good for you. Only around **1%** of the population has this disease, so out of an elementary school of 700 kids it'd be reasonable enough to expect **4-7 kids** out of the entire student body to have wheat allergy. People hear that ""gluten is bad..."" and they didn't bother staying around to hear the ""...for people with celiac disease, an often misdiagnosed disease where an autoimmune response irritates the small intestine."" It's just a food fad and anything that says ""gluten free"" on it does not mean healthy. People with celiac disease can have the appearance of being healthy because they have a huge source of carbs cut from their diets which can lead to a thinner physique.
+wanna test your friend? get a list of non allowed foods and some of them are surprising, including beer, cake, certain meat products, and even soup bases. If they aren't sick after consuming these things or even consume them regularly then they are BSing you. I called out an acquaintance on it while we were at a bar and he was drinking guinness and shiner bock by the keg.",pan25,dev,English,LLM-DetectAIve,train
+pan25_train_human_0121165,pan25_train_human_0121165,human,none,"Harold Park is a place in the London Borough of Havering.
+History
+Harold Park is north-eastern part of Harold Wood, occupying an isthmus of land between the A12 and the Ingrebourne River (The River Ingrebourne at Harold Park and Hornchurch).
+In 1868 a wealthy Brentwood solicitor built himself a mansion to the south of the river and railway line, named Harold Court. After the owner's bankruptcy the house served as a children's home, then a lunatic asylum and then a sanatorium. In 1959 it became a teacher training college and has now been converted into private flats.
+ 
+Horse Block Farm lay to the north-east of Harold Court Road. After the First World War the Essex builders Iles and Company laid out a bungalow estate here that it called Sunnytown. The company also created Sunnymede at Billericay.
+ 
+When Harold Court primary school opened in 1929 the area still retained a rural character, but this was slowly eroded as further development plugged the gaps, including some industry beside the Ingrebourne River.
+Local government
+Harold Park was located in the northeastern protrusion of the Hornchurch civil parish. It was part of Romford Rural District until 1926 and was then formed part of Hornchurch Urban District.
+Harold Park sits in the Parliamentary Constituency of Hornchurch and Upminster.
+Urban development
+Maylands Golf club, Harold Park was founded in 1937
+Geography
+Harold Park sits on the London/Essex border. The boundary goes down the Weald Brook. This has since changed to go down the M25 to junction 11 and then turn west along the A12 to Putwell Bridge where it joins the Ingrebourne. The River Ingrebourne and the Weald Brook meet in the area of Putwell Bridge. The Ingrebourne then flows south west.
+Nearest places
+ Harold Wood
+ Harold Hill
+ Brentwood
+ Emerson Park
+ Romford
+ Gidea Park
+ Hornchurch
+ Upminster
+ Shenfield
+Transport
+Nearest stations
+ Harold Wood railway station
+ Brentwood railway station
+ Gidea Park railway station
+ Emerson Park railway station
+ Shenfield railway station
+ Upminster station
+References
+Areas of London
+Districts of the London Borough of Havering",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0011596,pan25_train_human_0011596,human,none,The author concluds the story with this paragraph to show that next spring she will have anoter chane. The author shows that Saeng will relate to the blooms or the hybiscus plant and take the test again. The author does this to leave a clif haber and it shows there is more to Saeng’s life but it is still to come. In the story Saeng is trys to get used to change and that she is have a hard time. Her moter holes cheer her up but just like the winter comes. Saeng will Have next spring to take the divers test again.,pan25,train,English,TriBERT,val
+pan25_train_human_0028538,pan25_train_human_0028538,human,none,"My mum is someone who is patient. One time when I was little, I got gum stuck in my hair. I was crying a lot and moving around as my mom patiently tried to get the gum out of my hair. She kept on telling me to sit still, but she never got mad at me, even if she had really wanted to just stop and make me get it out myself. When she couldn’t get it out and said that she would have to at in out, I had screamed. Tet, with patience, she was some how able to cut the gum out and still keep my hair looking nice even though I wouldn’t sit still. I think my mom is the most patient person that I know, because whenever something happen, she is patient about it.",pan25,train,English,TriBERT,train
+pan25_train_human_0241104,pan25_train_human_0241104,human,none," We analyze the microlensing event KMT-2019-BLG-0797. The light curve of the
+event exhibits two anomalous features from a single-lens single-source model,
+and we aim to reveal the nature of the anomaly. It is found that a model with
+two lenses plus a single source (2L1S model) can explain one feature of the
+anomaly, but the other feature cannot be explained. We test various models and
+find that both anomalous features can be explained by introducing an extra
+source to a 2L1S model (2L2S model), making the event the third confirmed case
+of a 2L2S event, following on MOA-2010-BLG-117 and OGLE-2016-BLG-1003. It is
+estimated that the extra source comprises $\sim 4\%$ of the $I$-band flux from
+the primary source. Interpreting the event is subject to a close--wide
+degeneracy. According to the close solution, the lens is a binary consisting of
+two brown dwarfs with masses $(M_1, M_2)\sim (0.034, 0.021)~M_\odot$, and it is
+located at a distance of $\dl\sim 8.2$~kpc. According to the wide solution, on
+the other hand, the lens is composed of an object at the star/brown-dwarf
+boundary and an M dwarf with masses $(M_1, M_2)\sim (0.06, 0.33)~M_\odot$
+located at $\dl\sim 7.7$~kpc. The source is composed of a
+late-G-dwarf/early-K-dwarf primary and an early-to-mid M-dwarf companion.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0025299,pan25_dev_human_0025299,human,none,"She tied her long blond hair in a ponytail, a sign that she was serious._SEP_The plan needed to be executed perfectly and she was short on time._SEP_The first person to come to mind was someone to keep the target pre-occupied._SEP_She knew a guy, but he was a complete clown._SEP_He owes her though, back when he missed his target at the Ringling Brothers show in Cabo._SEP_She was sure she could get him to help so she made the call._SEP_It wasn't to difficult to convince him but he agreed to the job._SEP_The next member was the Griller._SEP_He got the name on a job in California during one of the State's worst forest fire._SEP_Her pulse rises when she thinks about him, during that time she was hungry for him but things have changed now. nan",pan25,dev,English,RoFT,train
+pan25_train_human_0227937,pan25_train_human_0227937,human,none,"Everyone has had a time in their life when they needed help. Some people ask for advice to help them with there problem. When seeking advice many people talk to more than one person  Asking more than one person for advice helps people make a good decision   one giving them a wide variety of options they can choose from finding people who are more qualified to give advice on your topic than others. For an example Generic_Name got a offered his dream job, but Generic_Name already has a job working at Microsoft for a much higher pay. He asks his boss and friends for advice, his boss says he should stay here at Microsoft while his friends say he should go to his dream job. Generic_Name looks at all the advice he got and made a decision to work at his dream job. For an example when Generic_Name asked his friends for advice he found out that Generic_Name experienced the same problem in the past. Generic_Name asked what Generic_Name did in that situation and Generic_Name replied with ""Go to your dream job, I stayed at my job, and I wish would've taken the my dream job."" So Generic_Name made the right decision, and left his job to work at his dream job.
+ Asking lots of people for advice helps people make a good decision by, one giving them an a assortment of options they can choose from, and two by finding people who have experienced a similar problem in the past. Asking multiple people for advice lets the person pick a choice they agree with or like instead of having only one option you have to choose. If you ask enough people you might find someone who experienced a similar problem making them more qualified than other people. Thats why people ask more than one person for advice.",pan25,train,English,LLM-DetectAIve,test
+pan25_train_human_0141425,pan25_train_human_0141425,human,none,"When people ask for advice they sometimes talk to more than one person  It is better to talk to more people than just one.  the more people you talk to the more advice you have. The least people you talk to the less advice you have.  When you talk to a lot of more people you have more varieties of advice to pick the one you want to use. Some people have negative thoughts in there mind and when they ask for advice that can help them out a whole lot. Then when they get a lot of good advice of what to do, and how to not have negative thoughts. This can change there life a whole lot and really help them out.
+
+Whenever someone ask for advice you should always give them it, because you never know what they are going through. Also that advice can be very helpful to them.  When asking for advice you should never ask just one person to get advice from always ask multiple, like family or close friends so it is more choices to pick from.
+
+Some people can be about to do something very bad that can make them go to jail, or hurt themselves. So you have to step up and stop them from doing it by giving them good advice. Therefore, When giving or getting advice always give it to multiple people or receive it from multiple people.",pan25,train,English,LLM-DetectAIve,train
+pan25_dev_human_0066584,pan25_dev_human_0066584,human,none,"Because you're reading a Rinzai Zen scholar (DT Suzuki) and a Soto Zen monk (Dogen). Two sects, two schools. 
+Zen is a sect of Buddhism that is Mind to Mind transmission outside the Scriptures. This doesn't mean it doesn't use scriptures. It only means it's not founded on them. 
+When Buddha twirled a flower and Mahakashyapa smiled in silent understanding, that was ""Mind to Mind"" transmission. It means that the Mind of the Master is imprinted on the Mind of the Student. But it's better to say that there is only One Mind (the term Chinese Zen Masters used). 
+This One Mind is not thinking, it is not consciousness. This ""Essence of Mind"" as Hui Neng called it, is what Zen adepts try to directly witness, fuse with. It is like this: thinking is the waves, and the Essence of Mind is the ocean. So, what are your thoughts ""made of""? What is their source? - 
+You can start your Zen journey by simply asking yourself: ""What was my original face before my parents were born?"" - Or, mommy and daddy were born, considering the Subreddit we're in. Anyway, the way of Zen is in the realisation that - since thinking is the waves, and the source - essence - one mind is the ocean itself, how can producing more and more waves make you realize the ocean? 
+Or, let's say the ultimate reality is a moon instead, reflected on the waters. You won't get it by grabbing it, by thinking; the more you ""catch"" it the more waves you produce. It is when you abandon discriminative thinking that the waves cease and the waters calm, and you can see the imprint of reality, the Moon reflected on your internal mirror.
+That's the best I can do in this format here.",pan25,dev,English,LLM-DetectAIve,train
+pan25_train_human_0170576,pan25_train_human_0170576,human,none,"Period cramps are caused, for the most part, by cellular signaling molecules called prostaglandins. One of the abilities of prostaglandins on the uterus is muscular contraction, and alterations in blood flow.
+Since period flow is death of the inner lining of the uterus due to a lack of blood, the process has a lot of inflammation going on in order to curb the blood loss and start the healing process. This process of inflammation involves the release of prostaglandins to alter the local tissue to make it more conducive to healing.
+A side effect of these prostaglandins can be uterine contractions to push out the dead tissue, but for the most part it's thought to be due to ischemia, a reduced flow of blood to the uterine muscles, because of the contractions and prostaglandin.
+This is the reason why period pain is often medicated with smooth muscle relaxants and pain killers.
+Heating pads work by warming up the region, which causes the blood vessels to open up to take away the heat and prevent cellular injury, which in turn improves the blood flow. This increased flow means that the uterus is getting enough blood, so the ischemia decreases and relieves pain. It makes the inflammatory process a lot easier on the blood vessels.",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0065915,pan25_train_human_0065915,human,none," We report measurements from which we determine the spatial structure of the
+lunar contribution to night sky brightness, taken at the LSST site on Cerro
+Pachon in Chile. We use an array of six photodiodes with filters that
+approximate the Large Synoptic Survey Telescope's {\it u, g, r, i, z,} and {\it
+y} bands. We use the sun as a proxy for the moon, and measure sky brightness as
+a function of zenith angle of the point on sky, zenith angle of the sun, and
+angular distance between the sun and the point on sky. We make a correction for
+the difference between the illumination spectrum of the sun and the moon. Since
+scattered sunlight totally dominates the daytime sky brightness, this technique
+allows us to cleanly determine the contribution to the (cloudless) night sky
+from backscattered moonlight, without contamination from other sources of night
+sky brightness. We estimate our uncertainty in the relative lunar night sky
+brightness vs. zenith and lunar angle to be 10\,\%. This information is useful
+in planning the optimal execution of the LSST survey, and perhaps for other
+astronomical observations as well. Although our primary objective is to map out
+the angular structure and spectrum of the scattered light from the atmosphere
+and particulates, we also make an estimate of the expected number of scattered
+lunar photons per pixel per second in LSST, and find values that are in overall
+agreement with previous estimates.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0082478,pan25_train_human_0082478,human,none," The nature of MHD turbulence is analyzed through both temporal and spatial
+magnetic fluctuation spectra. A magnetically turbulent plasma is produced in
+the MHD wind-tunnel configuration of the Swarthmore Spheromak Experiment (SSX).
+The power of magnetic fluctuations is projected into directions perpendicular
+and parallel to a local mean field; the ratio of these quantities shows the
+presence of variance anisotropy which varies as a function of frequency.
+Comparison amongst magnetic, velocity, and density spectra are also made,
+demonstrating that the energy of the turbulence observed is primarily seeded by
+magnetic fields created during plasma production. Direct spatial spectra are
+constructed using multi-channel diagnostics and are used to compare to
+frequency spectra converted to spatial scales using the Taylor Hypothesis.
+Evidence for the observation of dissipation due to ion inertial length scale
+physics is also discussed as well as the role laboratory experiment can play in
+understanding turbulence typically studied in space settings such as the solar
+wind. Finally, all turbulence results are shown to compare fairly well to a
+Hall-MHD simulation of the experiment.
+",pan25,train,English,LLM-DetectAIve,train
+pan25_train_human_0137296,pan25_train_human_0137296,human,none," Your weekly errands list probably includes a trip to the grocery store, filling up your tank, or stopping by the pharmacy. Although these tasks may seem mundane, they are great places to chat up new and interesting people. Next time you’re standing in line or browsing in the same aisle as another person, go out of your way to talk with them.
+Make it a goal to talk to a certain number of new people every time you go out. For example, try to say at least “hi” to three new people each time you run your errands.
+Don’t feel like you have to carry on a big conversation; simply greeting a new person and asking basic questions is enough to start. If the person is intrigued by you and you get along well, then the conversation will carry itself out naturally.;
+, Heading to work or school is something you have to do anyway, so using public transportation kills two birds with one stone. Sitting or standing next to a new person on the bus, train, or metro is a great excuse to begin chatting. Plus, if you find someone you really enjoy, chances are they take the same public transportation on a regular basis. Meaning that you have the opportunity to see them often.
+, If you have studying or work to do, or simply want to read a book, try doing it in a public setting instead of in your home. Head to a local park, set up camp, and hang out with others who do the same. If you share a common activity with a nearby stranger, start up a conversation about it!, Do you constantly see the same person in class or at work, but you’ve just never talked to them before? Then a great opportunity to meet someone new has presented itself to you. Approach that person you frequently see, start talking, and move past the ‘stranger’ zone you’ve currently been in.
+, If you are already planning on going to a get-together or party put on by a friend or family member, take initiative to avoid being a wallflower. Although you may know many or most of the people present, step out of your shell and talk to those at the party that you don’t.
+, If you go for walks, runs, or bike rides, consider moving your workout to a new location. Simply taking your dog for a walk at a local park is a simple means of finding people. Exercise in a more public location to get to know others who are doing the same.
+",pan25,train,English,LLM-DetectAIve,train
